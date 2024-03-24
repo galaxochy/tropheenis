@@ -1,0 +1,7345 @@
+[
+  {
+    "Ville": "Ablon",
+    "dpt": 14600,
+    "lon": 0.3,
+    "lat": 49.4,
+    "code": "qiihRZ"
+  },
+  {
+    "Ville": "Agde",
+    "dpt": 34300,
+    "lon": 3.46667,
+    "lat": 43.3167,
+    "code": "VyevfY"
+  },
+  {
+    "Ville": "Agon-Coutainville",
+    "dpt": 50230,
+    "lon": -1.575,
+    "lat": 49.0417,
+    "code": "Ieumug"
+  },
+  {
+    "Ville": "Aigues-Mortes",
+    "dpt": 30220,
+    "lon": 4.19167,
+    "lat": 43.5667,
+    "code": "UVBvkQ"
+  },
+  {
+    "Ville": "Ajaccio",
+    "dpt": 20000,
+    "lon": 8.7364,
+    "lat": 41.9256,
+    "code": "JsWuWo"
+  },
+  {
+    "Ville": "Alata",
+    "dpt": 20167,
+    "lon": 8.74306,
+    "lat": 41.977,
+    "code": "pqurDH"
+  },
+  {
+    "Ville": "Albitreccia",
+    "dpt": 20128,
+    "lon": 8.94195,
+    "lat": 41.8628,
+    "code": "rLLoXd"
+  },
+  {
+    "Ville": "Aléria",
+    "dpt": 20270,
+    "lon": 9.51306,
+    "lat": 42.1142,
+    "code": "aryXOv"
+  },
+  {
+    "Ville": "Algajola",
+    "dpt": 20220,
+    "lon": 8.86223,
+    "lat": 42.6078,
+    "code": "qBZvct"
+  },
+  {
+    "Ville": "Ambleteuse",
+    "dpt": 62164,
+    "lon": 1.6,
+    "lat": 50.8,
+    "code": "ourjna"
+  },
+  {
+    "Ville": "Ambon",
+    "dpt": 56190,
+    "lon": -2.56667,
+    "lat": 47.55,
+    "code": "jPTjBu"
+  },
+  {
+    "Ville": "Amfreville",
+    "dpt": 14860,
+    "lon": -0.233333,
+    "lat": 49.25,
+    "code": "AcVrZE"
+  },
+  {
+    "Ville": "Amfreville",
+    "dpt": 50480,
+    "lon": -1.38333,
+    "lat": 49.4167,
+    "code": "GCpxsg"
+  },
+  {
+    "Ville": "Andernos-les-Bains",
+    "dpt": 33510,
+    "lon": -1.1,
+    "lat": 44.7429,
+    "code": "bDvaKc"
+  },
+  {
+    "Ville": "Anglet",
+    "dpt": 64600,
+    "lon": -1.53333,
+    "lat": 43.4833,
+    "code": "jxmeYp"
+  },
+  {
+    "Ville": "Angoulins",
+    "dpt": 17690,
+    "lon": 0.890001,
+    "lat": 46.1042,
+    "code": "bOECxs"
+  },
+  {
+    "Ville": "Anneville-sur-Mer",
+    "dpt": 50560,
+    "lon": -1.58333,
+    "lat": 49.1167,
+    "code": "GmayNT"
+  },
+  {
+    "Ville": "Annoville",
+    "dpt": 50660,
+    "lon": -1.53333,
+    "lat": 48.9667,
+    "code": "dyljhd"
+  },
+  {
+    "Ville": "Anse-Bertrand",
+    "dpt": 97121,
+    "lon": 16.4714,
+    "lat": -61.5099,
+    "code": "YlrFnE"
+  },
+  {
+    "Ville": "Antibes",
+    "dpt": 6600,
+    "lon": 7.11667,
+    "lat": 43.5833,
+    "code": "FElwBB"
+  },
+  {
+    "Ville": "Appietto",
+    "dpt": 20167,
+    "lon": 8.76806,
+    "lat": 42.0139,
+    "code": "ZrJfca"
+  },
+  {
+    "Ville": "Arcachon",
+    "dpt": 33120,
+    "lon": -1.16355,
+    "lat": 44.6589,
+    "code": "CSnVhD"
+  },
+  {
+    "Ville": "Aregno",
+    "dpt": 20220,
+    "lon": 8.89445,
+    "lat": 42.5812,
+    "code": "iibARO"
+  },
+  {
+    "Ville": "Arès",
+    "dpt": 33740,
+    "lon": -1.1394,
+    "lat": 44.7671,
+    "code": "jBdtcY"
+  },
+  {
+    "Ville": "Argelès-sur-Mer",
+    "dpt": 66700,
+    "lon": 3.01667,
+    "lat": 42.55,
+    "code": "iWxPHU"
+  },
+  {
+    "Ville": "Argol",
+    "dpt": 29560,
+    "lon": -4.31667,
+    "lat": 48.25,
+    "code": "fByNRZ"
+  },
+  {
+    "Ville": "Arles",
+    "dpt": 13104,
+    "lon": 4.63333,
+    "lat": 43.6667,
+    "code": "svfwGa"
+  },
+  {
+    "Ville": "Arradon",
+    "dpt": 56610,
+    "lon": -2.83333,
+    "lat": 47.6333,
+    "code": "vRBXSG"
+  },
+  {
+    "Ville": "Arromanches-les-Bains",
+    "dpt": 14117,
+    "lon": -0.616667,
+    "lat": 49.3333,
+    "code": "HriEbk"
+  },
+  {
+    "Ville": "Ars-en-Ré",
+    "dpt": 17590,
+    "lon": -1.51667,
+    "lat": 46.2083,
+    "code": "OrdUAZ"
+  },
+  {
+    "Ville": "Arvert",
+    "dpt": 17530,
+    "lon": -1.13333,
+    "lat": 45.7333,
+    "code": "iHAnqq"
+  },
+  {
+    "Ville": "Arzon",
+    "dpt": 56640,
+    "lon": -2.9,
+    "lat": 47.55,
+    "code": "mQXgRU"
+  },
+  {
+    "Ville": "Asnelles",
+    "dpt": 14960,
+    "lon": -0.583333,
+    "lat": 49.3333,
+    "code": "CBJsLV"
+  },
+  {
+    "Ville": "Assérac",
+    "dpt": 44410,
+    "lon": -2.38333,
+    "lat": 47.4333,
+    "code": "mzHATU"
+  },
+  {
+    "Ville": "Auberville",
+    "dpt": 14640,
+    "lon": -0.033333,
+    "lat": 49.3167,
+    "code": "ReJBSj"
+  },
+  {
+    "Ville": "Audenge",
+    "dpt": 33980,
+    "lon": -1,
+    "lat": 44.6833,
+    "code": "IjVBVd"
+  },
+  {
+    "Ville": "Auderville",
+    "dpt": 50440,
+    "lon": -1.93104,
+    "lat": 49.7136,
+    "code": "KlJibv"
+  },
+  {
+    "Ville": "Audierne",
+    "dpt": 29770,
+    "lon": -4.53333,
+    "lat": 48.0167,
+    "code": "JyUALc"
+  },
+  {
+    "Ville": "Audinghen",
+    "dpt": 62179,
+    "lon": 1.6,
+    "lat": 50.85,
+    "code": "fzihMD"
+  },
+  {
+    "Ville": "Audouville-la-Hubert",
+    "dpt": 50480,
+    "lon": -1.23333,
+    "lat": 49.4167,
+    "code": "uRmhFf"
+  },
+  {
+    "Ville": "Audresselles",
+    "dpt": 62164,
+    "lon": 1.58333,
+    "lat": 50.8167,
+    "code": "kdVxod"
+  },
+  {
+    "Ville": "Ault",
+    "dpt": 80460,
+    "lon": 1.45,
+    "lat": 50.1,
+    "code": "PwWXCD"
+  },
+  {
+    "Ville": "Aumeville-Lestre",
+    "dpt": 50630,
+    "lon": -1.31667,
+    "lat": 49.5333,
+    "code": "JrqrVp"
+  },
+  {
+    "Ville": "Auray",
+    "dpt": 56400,
+    "lon": -2.98333,
+    "lat": 47.6667,
+    "code": "RySaHl"
+  },
+  {
+    "Ville": "Avranches",
+    "dpt": 50300,
+    "lon": -1.36667,
+    "lat": 48.6833,
+    "code": "TjrnHu"
+  },
+  {
+    "Ville": "Awala-Yalimapo",
+    "dpt": 97319,
+    "lon": 5.73369,
+    "lat": -53.9042,
+    "code": "ZxArLJ"
+  },
+  {
+    "Ville": "Aytré",
+    "dpt": 17440,
+    "lon": -1.1,
+    "lat": 46.1333,
+    "code": "HwfWbZ"
+  },
+  {
+    "Ville": "Baden",
+    "dpt": 56870,
+    "lon": -2.91667,
+    "lat": 47.6167,
+    "code": "PlFPZQ"
+  },
+  {
+    "Ville": "Bages",
+    "dpt": 11100,
+    "lon": 2.99111,
+    "lat": 43.1234,
+    "code": "PwAnMw"
+  },
+  {
+    "Ville": "Bages",
+    "dpt": 66670,
+    "lon": 2.89695,
+    "lat": 42.6059,
+    "code": "ilvNvQ"
+  },
+  {
+    "Ville": "Baie-Mahault",
+    "dpt": 97122,
+    "lon": 16.2576,
+    "lat": -61.5883,
+    "code": "AhDsxe"
+  },
+  {
+    "Ville": "Baillif",
+    "dpt": 97123,
+    "lon": 16.025,
+    "lat": -61.7287,
+    "code": "YCVDLe"
+  },
+  {
+    "Ville": "Balaruc-le-Vieux",
+    "dpt": 34540,
+    "lon": 3.68333,
+    "lat": 43.45,
+    "code": "doDKfL"
+  },
+  {
+    "Ville": "Balaruc-les-Bains",
+    "dpt": 34540,
+    "lon": 3.66667,
+    "lat": 43.4333,
+    "code": "NwZuzg"
+  },
+  {
+    "Ville": "Bandol",
+    "dpt": 83150,
+    "lon": 5.75,
+    "lat": 43.1333,
+    "code": "PvvOEo"
+  },
+  {
+    "Ville": "Bangor",
+    "dpt": 56360,
+    "lon": -3.189,
+    "lat": 47.3167,
+    "code": "lOzrwC"
+  },
+  {
+    "Ville": "Banyuls-sur-Mer",
+    "dpt": 66650,
+    "lon": 3.13333,
+    "lat": 42.4833,
+    "code": "mEAwwS"
+  },
+  {
+    "Ville": "Barbâtre",
+    "dpt": 85630,
+    "lon": -2.18333,
+    "lat": 46.95,
+    "code": "hswFDN"
+  },
+  {
+    "Ville": "Barfleur",
+    "dpt": 50760,
+    "lon": -1.25,
+    "lat": 49.6667,
+    "code": "fyKOsH"
+  },
+  {
+    "Ville": "Barneville-Carteret",
+    "dpt": 50270,
+    "lon": 0.247223,
+    "lat": 49.3812,
+    "code": "wWmCIg"
+  },
+  {
+    "Ville": "Barrettali",
+    "dpt": 20228,
+    "lon": 9.35529,
+    "lat": 42.877,
+    "code": "Woyfny"
+  },
+  {
+    "Ville": "Basse-Pointe",
+    "dpt": 97218,
+    "lon": 14.8527,
+    "lat": -61.1278,
+    "code": "hUXVLo"
+  },
+  {
+    "Ville": "Basse-Terre",
+    "dpt": 97100,
+    "lon": 16.0015,
+    "lat": -61.7183,
+    "code": "sDhMiJ"
+  },
+  {
+    "Ville": "Bastia",
+    "dpt": 20200,
+    "lon": 9.44945,
+    "lat": 42.7,
+    "code": "PXclsM"
+  },
+  {
+    "Ville": "Batz-sur-Mer",
+    "dpt": 44740,
+    "lon": -2.48333,
+    "lat": 47.2833,
+    "code": "GzRjxl"
+  },
+  {
+    "Ville": "Baubigny",
+    "dpt": 21340,
+    "lon": 4.68333,
+    "lat": 46.9667,
+    "code": "dDCIgY"
+  },
+  {
+    "Ville": "Baubigny",
+    "dpt": 50270,
+    "lon": -1.8,
+    "lat": 49.4333,
+    "code": "pfxnIL"
+  },
+  {
+    "Ville": "Beaulieu-sur-Mer",
+    "dpt": 6310,
+    "lon": 7.33333,
+    "lat": 43.7,
+    "code": "TSVKkY"
+  },
+  {
+    "Ville": "Beaumont-Hague",
+    "dpt": 50440,
+    "lon": -1.85,
+    "lat": 49.6667,
+    "code": "hMRNtK"
+  },
+  {
+    "Ville": "Beauvoir",
+    "dpt": 50170,
+    "lon": -1.5,
+    "lat": 48.6,
+    "code": "xMmPTu"
+  },
+  {
+    "Ville": "Beauvoir",
+    "dpt": 60120,
+    "lon": 2.33333,
+    "lat": 49.6,
+    "code": "HqnviD"
+  },
+  {
+    "Ville": "Beauvoir",
+    "dpt": 77390,
+    "lon": 2.86667,
+    "lat": 48.6333,
+    "code": "vrQbpk"
+  },
+  {
+    "Ville": "Beauvoir",
+    "dpt": 89240,
+    "lon": 3.36667,
+    "lat": 47.8,
+    "code": "rDrbfR"
+  },
+  {
+    "Ville": "Beauvoir-sur-Mer",
+    "dpt": 85230,
+    "lon": -2.05,
+    "lat": 46.9167,
+    "code": "ZZTboC"
+  },
+  {
+    "Ville": "Belgodère",
+    "dpt": 20226,
+    "lon": 9.01779,
+    "lat": 42.5856,
+    "code": "gnRzFg"
+  },
+  {
+    "Ville": "Bellefontaine",
+    "dpt": 39400,
+    "lon": 6.06667,
+    "lat": 46.55,
+    "code": "ACPuWS"
+  },
+  {
+    "Ville": "Bellefontaine",
+    "dpt": 50520,
+    "lon": -0.966667,
+    "lat": 48.6833,
+    "code": "UYTese"
+  },
+  {
+    "Ville": "Bellefontaine",
+    "dpt": 88370,
+    "lon": 6.45,
+    "lat": 48.0167,
+    "code": "mcOdVo"
+  },
+  {
+    "Ville": "Bellefontaine",
+    "dpt": 95270,
+    "lon": 2.46667,
+    "lat": 49.1,
+    "code": "KfoiFG"
+  },
+  {
+    "Ville": "Bellefontaine",
+    "dpt": 97222,
+    "lon": 14.6508,
+    "lat": -61.1287,
+    "code": "IcGiVn"
+  },
+  {
+    "Ville": "Belleville-sur-Mer",
+    "dpt": 76370,
+    "lon": 1.16667,
+    "lat": 49.95,
+    "code": "TwVHyS"
+  },
+  {
+    "Ville": "Belvédère-Campomoro",
+    "dpt": 20110,
+    "lon": 8.81501,
+    "lat": 41.6278,
+    "code": "HAVipg"
+  },
+  {
+    "Ville": "Belz",
+    "dpt": 56550,
+    "lon": -3.16667,
+    "lat": 47.6833,
+    "code": "CgouwS"
+  },
+  {
+    "Ville": "Benerville-sur-Mer",
+    "dpt": 14910,
+    "lon": 0.033333,
+    "lat": 49.35,
+    "code": "MjLWVz"
+  },
+  {
+    "Ville": "Bénodet",
+    "dpt": 29950,
+    "lon": -4.11667,
+    "lat": 47.8667,
+    "code": "DXjQCE"
+  },
+  {
+    "Ville": "Bénouville",
+    "dpt": 14970,
+    "lon": -0.283333,
+    "lat": 49.25,
+    "code": "tAtTdH"
+  },
+  {
+    "Ville": "Bénouville",
+    "dpt": 76790,
+    "lon": 0.25,
+    "lat": 49.7167,
+    "code": "BEqRkj"
+  },
+  {
+    "Ville": "Berck",
+    "dpt": 62600,
+    "lon": 1.59278,
+    "lat": 50.4084,
+    "code": "IUkOCo"
+  },
+  {
+    "Ville": "Berneval-le-Grand",
+    "dpt": 76370,
+    "lon": 1.18333,
+    "lat": 49.9667,
+    "code": "fPAZxP"
+  },
+  {
+    "Ville": "Bernières-sur-Mer",
+    "dpt": 14990,
+    "lon": -0.416667,
+    "lat": 49.3333,
+    "code": "fTgOju"
+  },
+  {
+    "Ville": "Beuzec-Cap-Sizun",
+    "dpt": 29790,
+    "lon": -4.51667,
+    "lat": 48.0833,
+    "code": "aTRvqo"
+  },
+  {
+    "Ville": "Biarritz",
+    "dpt": 64200,
+    "lon": -1.56667,
+    "lat": 43.4833,
+    "code": "yBlyYh"
+  },
+  {
+    "Ville": "Bidart",
+    "dpt": 64210,
+    "lon": -1.58333,
+    "lat": 43.4333,
+    "code": "AKwUmG"
+  },
+  {
+    "Ville": "Biganos",
+    "dpt": 33380,
+    "lon": -0.983333,
+    "lat": 44.65,
+    "code": "MIrwpr"
+  },
+  {
+    "Ville": "Biguglia",
+    "dpt": 20620,
+    "lon": 9.42001,
+    "lat": 42.627,
+    "code": "lAbkXd"
+  },
+  {
+    "Ville": "Billiers",
+    "dpt": 56190,
+    "lon": -2.48333,
+    "lat": 47.5333,
+    "code": "LfNSNh"
+  },
+  {
+    "Ville": "Binic",
+    "dpt": 22520,
+    "lon": -2.83333,
+    "lat": 48.6,
+    "code": "EyHKTp"
+  },
+  {
+    "Ville": "Biscarrosse",
+    "dpt": 40600,
+    "lon": -1.16667,
+    "lat": 44.3917,
+    "code": "xJVUCI"
+  },
+  {
+    "Ville": "Biville",
+    "dpt": 50440,
+    "lon": -1.81667,
+    "lat": 49.6167,
+    "code": "WbwViE"
+  },
+  {
+    "Ville": "Biville-sur-Mer",
+    "dpt": 76630,
+    "lon": 1.26667,
+    "lat": 49.9833,
+    "code": "fSKQCv"
+  },
+  {
+    "Ville": "Blainville-sur-Mer",
+    "dpt": 50560,
+    "lon": -1.58333,
+    "lat": 49.0667,
+    "code": "wSwlqD"
+  },
+  {
+    "Ville": "Blonville-sur-Mer",
+    "dpt": 14910,
+    "lon": 0.033333,
+    "lat": 49.3167,
+    "code": "gcAPfk"
+  },
+  {
+    "Ville": "Boismont",
+    "dpt": 54620,
+    "lon": 5.73333,
+    "lat": 49.4,
+    "code": "kLKwyC"
+  },
+  {
+    "Ville": "Boismont",
+    "dpt": 80230,
+    "lon": 1.68333,
+    "lat": 50.15,
+    "code": "REUpSO"
+  },
+  {
+    "Ville": "Bonifacio",
+    "dpt": 20169,
+    "lon": 9.16056,
+    "lat": 41.3881,
+    "code": "bYotSU"
+  },
+  {
+    "Ville": "Bono",
+    "dpt": 56400,
+    "lon": 1.04917,
+    "lat": 47.6403,
+    "code": "YPdVzH"
+  },
+  {
+    "Ville": "Borgo",
+    "dpt": 20290,
+    "lon": 9.42751,
+    "lat": 42.5539,
+    "code": "ltfACM"
+  },
+  {
+    "Ville": "Bormes-les-Mimosas",
+    "dpt": 83230,
+    "lon": 6.33333,
+    "lat": 43.15,
+    "code": "QoptNu"
+  },
+  {
+    "Ville": "Bouillante",
+    "dpt": 97132,
+    "lon": 16.172,
+    "lat": -61.7263,
+    "code": "mFHnzW"
+  },
+  {
+    "Ville": "Bouin",
+    "dpt": 79110,
+    "lon": -0.016667,
+    "lat": 46.0833,
+    "code": "jhCdaq"
+  },
+  {
+    "Ville": "Bouin",
+    "dpt": 85230,
+    "lon": -2,
+    "lat": 46.9667,
+    "code": "uyckrb"
+  },
+  {
+    "Ville": "Boulogne-sur-Mer",
+    "dpt": 62200,
+    "lon": 1.61667,
+    "lat": 50.7167,
+    "code": "FsTLlx"
+  },
+  {
+    "Ville": "Bourcefranc-le-Chapus",
+    "dpt": 17560,
+    "lon": 0.852501,
+    "lat": 45.8473,
+    "code": "sEzZcq"
+  },
+  {
+    "Ville": "Bouzigues",
+    "dpt": 34140,
+    "lon": 3.65,
+    "lat": 43.45,
+    "code": "XNAZRe"
+  },
+  {
+    "Ville": "Bracquemont",
+    "dpt": 76370,
+    "lon": 1.15,
+    "lat": 49.95,
+    "code": "YHYlCs"
+  },
+  {
+    "Ville": "Brando",
+    "dpt": 20222,
+    "lon": 9.47529,
+    "lat": 42.775,
+    "code": "PxHsPH"
+  },
+  {
+    "Ville": "Bras-Panon",
+    "dpt": 97412,
+    "lon": -20.9992,
+    "lat": 55.6849,
+    "code": "wAPNOe"
+  },
+  {
+    "Ville": "Bray-Dunes",
+    "dpt": 59123,
+    "lon": 2.51667,
+    "lat": 51.0833,
+    "code": "MdhbUe"
+  },
+  {
+    "Ville": "Brech",
+    "dpt": 56400,
+    "lon": -2.98333,
+    "lat": 47.7167,
+    "code": "dpuWgM"
+  },
+  {
+    "Ville": "Bréhal",
+    "dpt": 50290,
+    "lon": -1.51667,
+    "lat": 48.9,
+    "code": "KXpOZr"
+  },
+  {
+    "Ville": "Brélès",
+    "dpt": 29810,
+    "lon": -4.71667,
+    "lat": 48.4833,
+    "code": "ZckvqG"
+  },
+  {
+    "Ville": "Brest",
+    "dpt": 29200,
+    "lon": -4.48333,
+    "lat": 48.4,
+    "code": "aiCZHV"
+  },
+  {
+    "Ville": "Bretignolles-sur-Mer",
+    "dpt": 85470,
+    "lon": -1.86667,
+    "lat": 46.6333,
+    "code": "MblLii"
+  },
+  {
+    "Ville": "Bretteville",
+    "dpt": 50110,
+    "lon": 0.479445,
+    "lat": 49.6562,
+    "code": "qWbvQk"
+  },
+  {
+    "Ville": "Bretteville-sur-Ay",
+    "dpt": 50430,
+    "lon": -1.63333,
+    "lat": 49.2667,
+    "code": "FKOhhg"
+  },
+  {
+    "Ville": "Breuillet",
+    "dpt": 17920,
+    "lon": -1.05,
+    "lat": 45.7,
+    "code": "YTLmiw"
+  },
+  {
+    "Ville": "Breuillet",
+    "dpt": 91650,
+    "lon": 2.16667,
+    "lat": 48.5667,
+    "code": "sdeFdw"
+  },
+  {
+    "Ville": "Brévands",
+    "dpt": 50500,
+    "lon": -1.18333,
+    "lat": 49.3333,
+    "code": "wBvuVI"
+  },
+  {
+    "Ville": "Bréville-sur-Mer",
+    "dpt": 50290,
+    "lon": -1.55,
+    "lat": 48.8667,
+    "code": "fJwujV"
+  },
+  {
+    "Ville": "Bricqueville-sur-Mer",
+    "dpt": 50290,
+    "lon": -1.51667,
+    "lat": 48.9167,
+    "code": "kAbBOc"
+  },
+  {
+    "Ville": "Brignogan-Plage",
+    "dpt": 29890,
+    "lon": -4.31667,
+    "lat": 48.6667,
+    "code": "DzHPvZ"
+  },
+  {
+    "Ville": "Brucheville",
+    "dpt": 50480,
+    "lon": -1.2,
+    "lat": 49.3667,
+    "code": "TeqiHC"
+  },
+  {
+    "Ville": "Cabourg",
+    "dpt": 14390,
+    "lon": 0.133333,
+    "lat": 49.2833,
+    "code": "LgQtgN"
+  },
+  {
+    "Ville": "Cagnano",
+    "dpt": 20228,
+    "lon": 9.42973,
+    "lat": 42.8753,
+    "code": "Oljqdx"
+  },
+  {
+    "Ville": "Cagnes-sur-Mer",
+    "dpt": 6800,
+    "lon": 7.15,
+    "lat": 43.6667,
+    "code": "aLFqmw"
+  },
+  {
+    "Ville": "Calais",
+    "dpt": 62100,
+    "lon": 1.83333,
+    "lat": 50.95,
+    "code": "KtBFgz"
+  },
+  {
+    "Ville": "Calcatoggio",
+    "dpt": 20111,
+    "lon": 8.76723,
+    "lat": 42.0284,
+    "code": "kwuXMM"
+  },
+  {
+    "Ville": "Calenzana",
+    "dpt": 20214,
+    "lon": 8.85529,
+    "lat": 42.5081,
+    "code": "KAVJqy"
+  },
+  {
+    "Ville": "Calvi",
+    "dpt": 20260,
+    "lon": 8.75667,
+    "lat": 42.5678,
+    "code": "ZOzQlC"
+  },
+  {
+    "Ville": "Camaret-sur-Mer",
+    "dpt": 29570,
+    "lon": -4.6,
+    "lat": 48.2833,
+    "code": "lpvQAJ"
+  },
+  {
+    "Ville": "Camiers",
+    "dpt": 62176,
+    "lon": 1.61667,
+    "lat": 50.5667,
+    "code": "QeLuDJ"
+  },
+  {
+    "Ville": "Canale-di-Verde",
+    "dpt": 20230,
+    "lon": 9.47973,
+    "lat": 42.2745,
+    "code": "lYxDHo"
+  },
+  {
+    "Ville": "Canari",
+    "dpt": 20217,
+    "lon": 9.33001,
+    "lat": 42.8456,
+    "code": "CHPOMp"
+  },
+  {
+    "Ville": "Cancale",
+    "dpt": 35260,
+    "lon": -1.85,
+    "lat": 48.6833,
+    "code": "eFdgWR"
+  },
+  {
+    "Ville": "Candillargues",
+    "dpt": 34130,
+    "lon": 4.06667,
+    "lat": 43.6167,
+    "code": "kKNmon"
+  },
+  {
+    "Ville": "Canet-en-Roussillon",
+    "dpt": 66140,
+    "lon": 3.00778,
+    "lat": 42.7067,
+    "code": "FiqgNE"
+  },
+  {
+    "Ville": "Cannes",
+    "dpt": 6400,
+    "lon": 7.01667,
+    "lat": 43.55,
+    "code": "ruALrs"
+  },
+  {
+    "Ville": "Cap-d'Ail",
+    "dpt": 6320,
+    "lon": 7.4,
+    "lat": 43.7167,
+    "code": "HEMwqm"
+  },
+  {
+    "Ville": "Capbreton",
+    "dpt": 40130,
+    "lon": -1.43333,
+    "lat": 43.6333,
+    "code": "cjDurt"
+  },
+  {
+    "Ville": "Capesterre-Belle-Eau",
+    "dpt": 97130,
+    "lon": 16.0382,
+    "lat": -61.5936,
+    "code": "xlrmAH"
+  },
+  {
+    "Ville": "Capesterre-de-Marie-Galante",
+    "dpt": 97140,
+    "lon": 15.8901,
+    "lat": -61.222,
+    "code": "PwkJwC"
+  },
+  {
+    "Ville": "Carantec",
+    "dpt": 29660,
+    "lon": -3.91667,
+    "lat": 48.6667,
+    "code": "RMhaFv"
+  },
+  {
+    "Ville": "Carcans",
+    "dpt": 33121,
+    "lon": -1.05,
+    "lat": 45.0833,
+    "code": "CnSkJZ"
+  },
+  {
+    "Ville": "Cargèse",
+    "dpt": 20130,
+    "lon": 8.59473,
+    "lat": 42.1353,
+    "code": "Wolvrq"
+  },
+  {
+    "Ville": "Carnac",
+    "dpt": 56340,
+    "lon": -3.08333,
+    "lat": 47.5833,
+    "code": "mueKCy"
+  },
+  {
+    "Ville": "Carolles",
+    "dpt": 50740,
+    "lon": -1.55,
+    "lat": 48.75,
+    "code": "TNDIep"
+  },
+  {
+    "Ville": "Carqueiranne",
+    "dpt": 83320,
+    "lon": 6.08333,
+    "lat": 43.0833,
+    "code": "AdGpJS"
+  },
+  {
+    "Ville": "Carry-le-Rouet",
+    "dpt": 13620,
+    "lon": 5.15,
+    "lat": 43.3333,
+    "code": "kxgubd"
+  },
+  {
+    "Ville": "Casaglione",
+    "dpt": 20111,
+    "lon": 8.78806,
+    "lat": 42.0678,
+    "code": "LmaOLH"
+  },
+  {
+    "Ville": "Case-Pilote",
+    "dpt": 97222,
+    "lon": 14.6415,
+    "lat": -61.1357,
+    "code": "qLMQLk"
+  },
+  {
+    "Ville": "Cassis",
+    "dpt": 13260,
+    "lon": 5.53333,
+    "lat": 43.2167,
+    "code": "mrtJtK"
+  },
+  {
+    "Ville": "Castellare-di-Casinca",
+    "dpt": 20213,
+    "lon": 9.47334,
+    "lat": 42.4678,
+    "code": "hKgSTM"
+  },
+  {
+    "Ville": "Caudan",
+    "dpt": 56850,
+    "lon": -3.33333,
+    "lat": 47.8167,
+    "code": "GyJuqc"
+  },
+  {
+    "Ville": "Cauville-sur-Mer",
+    "dpt": 76930,
+    "lon": 0.133333,
+    "lat": 49.6,
+    "code": "rXMziS"
+  },
+  {
+    "Ville": "Cavalaire-sur-Mer",
+    "dpt": 83240,
+    "lon": 6.53333,
+    "lat": 43.1667,
+    "code": "awzRwH"
+  },
+  {
+    "Ville": "Cayenne",
+    "dpt": 97300,
+    "lon": 4.92215,
+    "lat": -52.3054,
+    "code": "ygaNvC"
+  },
+  {
+    "Ville": "Cayeux-sur-Mer",
+    "dpt": 80410,
+    "lon": 1.48333,
+    "lat": 50.1833,
+    "code": "vqiuWM"
+  },
+  {
+    "Ville": "Céaux",
+    "dpt": 50220,
+    "lon": -1.38333,
+    "lat": 48.6333,
+    "code": "NnmtNY"
+  },
+  {
+    "Ville": "Centuri",
+    "dpt": 20238,
+    "lon": 9.36918,
+    "lat": 42.9603,
+    "code": "xflLZN"
+  },
+  {
+    "Ville": "Cerbère",
+    "dpt": 66290,
+    "lon": 3.16667,
+    "lat": 42.45,
+    "code": "hxzwRE"
+  },
+  {
+    "Ville": "Cervione",
+    "dpt": 20221,
+    "lon": 9.49168,
+    "lat": 42.3317,
+    "code": "NaMqlQ"
+  },
+  {
+    "Ville": "Chaillevette",
+    "dpt": 17890,
+    "lon": -1.05,
+    "lat": 45.7333,
+    "code": "gPlnWc"
+  },
+  {
+    "Ville": "Champagné-les-Marais",
+    "dpt": 85450,
+    "lon": -1.13333,
+    "lat": 46.3667,
+    "code": "reYaFf"
+  },
+  {
+    "Ville": "Champeaux",
+    "dpt": 35500,
+    "lon": -1.31667,
+    "lat": 48.15,
+    "code": "vOijHy"
+  },
+  {
+    "Ville": "Champeaux",
+    "dpt": 50530,
+    "lon": -1.53333,
+    "lat": 48.7333,
+    "code": "ssPSWq"
+  },
+  {
+    "Ville": "Champeaux",
+    "dpt": 61120,
+    "lon": 0.133333,
+    "lat": 48.9,
+    "code": "iaWaPG"
+  },
+  {
+    "Ville": "Champeaux",
+    "dpt": 77720,
+    "lon": 2.8,
+    "lat": 48.5833,
+    "code": "HbwsjR"
+  },
+  {
+    "Ville": "Charron",
+    "dpt": 17230,
+    "lon": -1.1,
+    "lat": 46.2833,
+    "code": "roUJiZ"
+  },
+  {
+    "Ville": "Charron",
+    "dpt": 23700,
+    "lon": 2.56667,
+    "lat": 46.0667,
+    "code": "eCbCVS"
+  },
+  {
+    "Ville": "Château-d'Olonne",
+    "dpt": 85180,
+    "lon": -1.73333,
+    "lat": 46.5,
+    "code": "qnDSuQ"
+  },
+  {
+    "Ville": "Châteauneuf-les-Martigues",
+    "dpt": 13220,
+    "lon": 5.16667,
+    "lat": 43.3833,
+    "code": "xMKEsi"
+  },
+  {
+    "Ville": "Châtelaillon-Plage",
+    "dpt": 17340,
+    "lon": -1.08333,
+    "lat": 46.0667,
+    "code": "Gcgolf"
+  },
+  {
+    "Ville": "Cherbourg-Octeville",
+    "dpt": 50100,
+    "lon": -1.65,
+    "lat": 49.65,
+    "code": "LQEHwW"
+  },
+  {
+    "Ville": "Cherrueix",
+    "dpt": 35120,
+    "lon": -1.7,
+    "lat": 48.6,
+    "code": "QDDOcS"
+  },
+  {
+    "Ville": "Ciboure",
+    "dpt": 64500,
+    "lon": -1.66667,
+    "lat": 43.3833,
+    "code": "fAzDfO"
+  },
+  {
+    "Ville": "Cléden-Cap-Sizun",
+    "dpt": 29770,
+    "lon": -4.65,
+    "lat": 48.05,
+    "code": "XcrSQP"
+  },
+  {
+    "Ville": "Cléder",
+    "dpt": 29233,
+    "lon": -4.1,
+    "lat": 48.6667,
+    "code": "ddFjuD"
+  },
+  {
+    "Ville": "Clohars-Carnoët",
+    "dpt": 29360,
+    "lon": -3.58333,
+    "lat": 47.8,
+    "code": "PZTFDF"
+  },
+  {
+    "Ville": "Coggia",
+    "dpt": 20160,
+    "lon": 8.7489,
+    "lat": 42.1231,
+    "code": "ikVDsL"
+  },
+  {
+    "Ville": "Cogolin",
+    "dpt": 83310,
+    "lon": 6.53333,
+    "lat": 43.25,
+    "code": "hraSJh"
+  },
+  {
+    "Ville": "Colleville-Montgomery",
+    "dpt": 14880,
+    "lon": -0.3,
+    "lat": 49.2833,
+    "code": "PbRGWf"
+  },
+  {
+    "Ville": "Colleville-sur-Mer",
+    "dpt": 14710,
+    "lon": -0.85,
+    "lat": 49.35,
+    "code": "FhEkhv"
+  },
+  {
+    "Ville": "Collioure",
+    "dpt": 66190,
+    "lon": 3.08333,
+    "lat": 42.5167,
+    "code": "UQKvnJ"
+  },
+  {
+    "Ville": "Combrit",
+    "dpt": 29120,
+    "lon": -4.15,
+    "lat": 47.8833,
+    "code": "fTqKpp"
+  },
+  {
+    "Ville": "Commes",
+    "dpt": 14520,
+    "lon": -0.733333,
+    "lat": 49.3333,
+    "code": "tfXFyu"
+  },
+  {
+    "Ville": "Conca",
+    "dpt": 20135,
+    "lon": 9.33334,
+    "lat": 41.735,
+    "code": "KGMdQr"
+  },
+  {
+    "Ville": "Concarneau",
+    "dpt": 29900,
+    "lon": -3.91667,
+    "lat": 47.8667,
+    "code": "jJPabg"
+  },
+  {
+    "Ville": "Conchil-le-Temple",
+    "dpt": 62180,
+    "lon": 1.66667,
+    "lat": 50.3667,
+    "code": "DhWAKM"
+  },
+  {
+    "Ville": "Corbara",
+    "dpt": 20220,
+    "lon": 8.90667,
+    "lat": 42.6145,
+    "code": "dIqEFx"
+  },
+  {
+    "Ville": "Cosqueville",
+    "dpt": 50330,
+    "lon": -1.4,
+    "lat": 49.7,
+    "code": "IyWBWU"
+  },
+  {
+    "Ville": "Coti-Chiavari",
+    "dpt": 20138,
+    "lon": 8.77112,
+    "lat": 41.7725,
+    "code": "EQQfqW"
+  },
+  {
+    "Ville": "Coudeville-sur-Mer",
+    "dpt": 50290,
+    "lon": -1.51667,
+    "lat": 48.8833,
+    "code": "tFdpQd"
+  },
+  {
+    "Ville": "Courseulles-sur-Mer",
+    "dpt": 14470,
+    "lon": -0.45,
+    "lat": 49.3333,
+    "code": "KqFdLh"
+  },
+  {
+    "Ville": "Courtils",
+    "dpt": 50220,
+    "lon": -1.43333,
+    "lat": 48.6333,
+    "code": "GFGVXS"
+  },
+  {
+    "Ville": "Crach",
+    "dpt": 56950,
+    "lon": -3.00833,
+    "lat": 47.6167,
+    "code": "djcXXn"
+  },
+  {
+    "Ville": "Crasville",
+    "dpt": 27400,
+    "lon": 1.08333,
+    "lat": 49.2167,
+    "code": "qGHSkg"
+  },
+  {
+    "Ville": "Crasville",
+    "dpt": 50630,
+    "lon": -1.33333,
+    "lat": 49.55,
+    "code": "wnQJPw"
+  },
+  {
+    "Ville": "Créances",
+    "dpt": 50710,
+    "lon": -1.56667,
+    "lat": 49.2,
+    "code": "ERjGAH"
+  },
+  {
+    "Ville": "Créhen",
+    "dpt": 22130,
+    "lon": -2.21667,
+    "lat": 48.55,
+    "code": "MOTTMV"
+  },
+  {
+    "Ville": "Cricqueville-en-Bessin",
+    "dpt": 14450,
+    "lon": -1,
+    "lat": 49.3833,
+    "code": "aiOzUm"
+  },
+  {
+    "Ville": "Criel-sur-Mer",
+    "dpt": 76910,
+    "lon": 1.31667,
+    "lat": 50.0167,
+    "code": "rnQnBN"
+  },
+  {
+    "Ville": "Criquebeuf-en-Caux",
+    "dpt": 76111,
+    "lon": 0.333333,
+    "lat": 49.7333,
+    "code": "zNDczz"
+  },
+  {
+    "Ville": "Crozon",
+    "dpt": 29160,
+    "lon": -4.48333,
+    "lat": 48.25,
+    "code": "pKywmt"
+  },
+  {
+    "Ville": "Cucq",
+    "dpt": 62780,
+    "lon": 1.61667,
+    "lat": 50.4833,
+    "code": "ManUaL"
+  },
+  {
+    "Ville": "Damgan",
+    "dpt": 56750,
+    "lon": -2.58333,
+    "lat": 47.5167,
+    "code": "EpItlm"
+  },
+  {
+    "Ville": "Dannes",
+    "dpt": 62187,
+    "lon": 1.6,
+    "lat": 50.5833,
+    "code": "JgqVSd"
+  },
+  {
+    "Ville": "Daoulas",
+    "dpt": 29460,
+    "lon": -4.25,
+    "lat": 48.3667,
+    "code": "lCePEo"
+  },
+  {
+    "Ville": "Deauville",
+    "dpt": 14800,
+    "lon": 0.075277,
+    "lat": 49.36,
+    "code": "pPcDrw"
+  },
+  {
+    "Ville": "Denneville",
+    "dpt": 50580,
+    "lon": -1.65,
+    "lat": 49.3167,
+    "code": "FGTnxc"
+  },
+  {
+    "Ville": "Deshaies",
+    "dpt": 97126,
+    "lon": 16.3095,
+    "lat": -61.7922,
+    "code": "GPOuQB"
+  },
+  {
+    "Ville": "Dieppe",
+    "dpt": 76200,
+    "lon": 1.08333,
+    "lat": 49.9333,
+    "code": "KMOqhJ"
+  },
+  {
+    "Ville": "Digosville",
+    "dpt": 50110,
+    "lon": -1.53333,
+    "lat": 49.6333,
+    "code": "IffUtr"
+  },
+  {
+    "Ville": "Digulleville",
+    "dpt": 50440,
+    "lon": -1.86667,
+    "lat": 49.7,
+    "code": "VqLQtk"
+  },
+  {
+    "Ville": "Dinard",
+    "dpt": 35800,
+    "lon": -2.06667,
+    "lat": 48.6333,
+    "code": "RFXPPo"
+  },
+  {
+    "Ville": "Dinéault",
+    "dpt": 29150,
+    "lon": -4.16667,
+    "lat": 48.2167,
+    "code": "qKmyox"
+  },
+  {
+    "Ville": "Dirinon",
+    "dpt": 29460,
+    "lon": -4.26667,
+    "lat": 48.4,
+    "code": "IMetXi"
+  },
+  {
+    "Ville": "Dives-sur-Mer",
+    "dpt": 14160,
+    "lon": -0.1,
+    "lat": 49.2833,
+    "code": "bQlXDg"
+  },
+  {
+    "Ville": "Dolus-d'Oléron",
+    "dpt": 17550,
+    "lon": 0.739168,
+    "lat": 45.9112,
+    "code": "RebhGg"
+  },
+  {
+    "Ville": "Donville-les-Bains",
+    "dpt": 50350,
+    "lon": -1.56667,
+    "lat": 48.85,
+    "code": "qwlxfs"
+  },
+  {
+    "Ville": "Douarnenez",
+    "dpt": 29100,
+    "lon": -4.33333,
+    "lat": 48.1,
+    "code": "lZQKOn"
+  },
+  {
+    "Ville": "Dragey-Ronthon",
+    "dpt": 50530,
+    "lon": 0.502779,
+    "lat": 48.7117,
+    "code": "QuDjNH"
+  },
+  {
+    "Ville": "Ducos",
+    "dpt": 97224,
+    "lon": 14.5741,
+    "lat": -60.9849,
+    "code": "dlonKE"
+  },
+  {
+    "Ville": "Dunkerque",
+    "dpt": 59140,
+    "lon": 2.36667,
+    "lat": 51.05,
+    "code": "GDKbvT"
+  },
+  {
+    "Ville": "Elne",
+    "dpt": 66200,
+    "lon": 2.96667,
+    "lat": 42.6,
+    "code": "hDAKxi"
+  },
+  {
+    "Ville": "Englesqueville-la-Percée",
+    "dpt": 14710,
+    "lon": -0.95,
+    "lat": 49.3833,
+    "code": "AGVesH"
+  },
+  {
+    "Ville": "Ensuès-la-Redonne",
+    "dpt": 13820,
+    "lon": 5.2,
+    "lat": 43.35,
+    "code": "ewJEDh"
+  },
+  {
+    "Ville": "Erdeven",
+    "dpt": 56410,
+    "lon": -3.15,
+    "lat": 47.6333,
+    "code": "ODPyZk"
+  },
+  {
+    "Ville": "Erquy",
+    "dpt": 22430,
+    "lon": -2.46667,
+    "lat": 48.6333,
+    "code": "qxvhYh"
+  },
+  {
+    "Ville": "Ersa",
+    "dpt": 20275,
+    "lon": 9.38001,
+    "lat": 42.975,
+    "code": "aPYLyE"
+  },
+  {
+    "Ville": "Escalles",
+    "dpt": 62179,
+    "lon": 1.71667,
+    "lat": 50.9167,
+    "code": "gslMsv"
+  },
+  {
+    "Ville": "Esnandes",
+    "dpt": 17137,
+    "lon": -1.08333,
+    "lat": 46.25,
+    "code": "QuCsFh"
+  },
+  {
+    "Ville": "Esquibien",
+    "dpt": 29770,
+    "lon": -4.56667,
+    "lat": 48.0167,
+    "code": "NztRFi"
+  },
+  {
+    "Ville": "Farinole",
+    "dpt": 20253,
+    "lon": 9.36556,
+    "lat": 42.7323,
+    "code": "SwUvjR"
+  },
+  {
+    "Ville": "Fatouville-Grestain",
+    "dpt": 27210,
+    "lon": 0.333333,
+    "lat": 49.4,
+    "code": "MRDoZr"
+  },
+  {
+    "Ville": "Favières",
+    "dpt": 28170,
+    "lon": 1.23333,
+    "lat": 48.5333,
+    "code": "YOjgvI"
+  },
+  {
+    "Ville": "Favières",
+    "dpt": 54115,
+    "lon": 5.95,
+    "lat": 48.4667,
+    "code": "hrdJPV"
+  },
+  {
+    "Ville": "Favières",
+    "dpt": 77220,
+    "lon": 2.78333,
+    "lat": 48.7667,
+    "code": "bJsgJp"
+  },
+  {
+    "Ville": "Favières",
+    "dpt": 80120,
+    "lon": 1.66667,
+    "lat": 50.2333,
+    "code": "eZIvxJ"
+  },
+  {
+    "Ville": "Fécamp",
+    "dpt": 76400,
+    "lon": 0.366667,
+    "lat": 49.75,
+    "code": "WhuKJj"
+  },
+  {
+    "Ville": "Fermanville",
+    "dpt": 50840,
+    "lon": -1.45,
+    "lat": 49.6833,
+    "code": "RFbQWF"
+  },
+  {
+    "Ville": "Figari",
+    "dpt": 20114,
+    "lon": 9.12945,
+    "lat": 41.4881,
+    "code": "csURLe"
+  },
+  {
+    "Ville": "Fitou",
+    "dpt": 11510,
+    "lon": 2.98333,
+    "lat": 42.9,
+    "code": "DEHwKF"
+  },
+  {
+    "Ville": "Flamanville",
+    "dpt": 50340,
+    "lon": -1.86667,
+    "lat": 49.5333,
+    "code": "RvAVvs"
+  },
+  {
+    "Ville": "Flamanville",
+    "dpt": 76970,
+    "lon": 0.833333,
+    "lat": 49.6333,
+    "code": "bzhqfS"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 2600,
+    "lon": 3.15639,
+    "lat": 49.2581,
+    "code": "lntxws"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 11560,
+    "lon": 3.135,
+    "lat": 43.2284,
+    "code": "SvhSht"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 50800,
+    "lon": -1.28333,
+    "lat": 48.85,
+    "code": "skHEuu"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 57420,
+    "lon": 6.2,
+    "lat": 49.0333,
+    "code": "eyikOX"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 60240,
+    "lon": 1.96667,
+    "lat": 49.25,
+    "code": "OdfJXy"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 62134,
+    "lon": 2.25,
+    "lat": 50.4167,
+    "code": "QQsxkR"
+  },
+  {
+    "Ville": "Fleury",
+    "dpt": 80160,
+    "lon": 2.11667,
+    "lat": 49.75,
+    "code": "DKmuIB"
+  },
+  {
+    "Ville": "Flocques",
+    "dpt": 76260,
+    "lon": 1.36667,
+    "lat": 50.0333,
+    "code": "jNytHG"
+  },
+  {
+    "Ville": "Fontenay-sur-Mer",
+    "dpt": 50310,
+    "lon": -1.31667,
+    "lat": 49.4833,
+    "code": "EEjzai"
+  },
+  {
+    "Ville": "Fort-de-France",
+    "dpt": 97234,
+    "lon": 14.627,
+    "lat": -61.0732,
+    "code": "rTPPwS"
+  },
+  {
+    "Ville": "Fort-Mahon-Plage",
+    "dpt": 80790,
+    "lon": 1.56972,
+    "lat": 50.3419,
+    "code": "UeUabF"
+  },
+  {
+    "Ville": "Fos-sur-Mer",
+    "dpt": 13270,
+    "lon": 4.95,
+    "lat": 43.4333,
+    "code": "fdNZKW"
+  },
+  {
+    "Ville": "Foucarville",
+    "dpt": 50480,
+    "lon": -1.25,
+    "lat": 49.45,
+    "code": "ZkwbpS"
+  },
+  {
+    "Ville": "Fouesnant",
+    "dpt": 29170,
+    "lon": -4.01667,
+    "lat": 47.9,
+    "code": "JofKFr"
+  },
+  {
+    "Ville": "Fouras",
+    "dpt": 17450,
+    "lon": -1.1,
+    "lat": 45.9833,
+    "code": "OEqyHY"
+  },
+  {
+    "Ville": "Fréhel",
+    "dpt": 22240,
+    "lon": 1.63389,
+    "lat": 48.6281,
+    "code": "EWbopO"
+  },
+  {
+    "Ville": "Fréjus",
+    "dpt": 83600,
+    "lon": 6.73611,
+    "lat": 43.4339,
+    "code": "EgToDz"
+  },
+  {
+    "Ville": "Frontignan",
+    "dpt": 34110,
+    "lon": 3.75,
+    "lat": 43.45,
+    "code": "SojvCy"
+  },
+  {
+    "Ville": "Furiani",
+    "dpt": 20600,
+    "lon": 9.41445,
+    "lat": 42.6581,
+    "code": "laMDJD"
+  },
+  {
+    "Ville": "Galéria",
+    "dpt": 20245,
+    "lon": 8.64862,
+    "lat": 42.4095,
+    "code": "xSUGPb"
+  },
+  {
+    "Ville": "Gassin",
+    "dpt": 83580,
+    "lon": 6.58333,
+    "lat": 43.2167,
+    "code": "ELamSg"
+  },
+  {
+    "Ville": "Gastes",
+    "dpt": 40160,
+    "lon": -1.15,
+    "lat": 44.3333,
+    "code": "vnKMdc"
+  },
+  {
+    "Ville": "Gatteville-le-Phare",
+    "dpt": 50760,
+    "lon": -1.28333,
+    "lat": 49.6833,
+    "code": "uTqksh"
+  },
+  {
+    "Ville": "Gâvres",
+    "dpt": 56290,
+    "lon": -3.35,
+    "lat": 47.6833,
+    "code": "oMUzFG"
+  },
+  {
+    "Ville": "Geffosses",
+    "dpt": 50560,
+    "lon": -1.55,
+    "lat": 49.1333,
+    "code": "WArKfN"
+  },
+  {
+    "Ville": "Géfosse-Fontenay",
+    "dpt": 14230,
+    "lon": -1.08333,
+    "lat": 49.3667,
+    "code": "pispUJ"
+  },
+  {
+    "Ville": "Genêts",
+    "dpt": 50530,
+    "lon": -1.48333,
+    "lat": 48.6833,
+    "code": "XlcmQq"
+  },
+  {
+    "Ville": "Ghisonaccia",
+    "dpt": 20240,
+    "lon": 9.40501,
+    "lat": 42.0164,
+    "code": "nkpJRB"
+  },
+  {
+    "Ville": "Ghyvelde",
+    "dpt": 59254,
+    "lon": 2.53333,
+    "lat": 51.05,
+    "code": "TNpJgl"
+  },
+  {
+    "Ville": "Glatigny",
+    "dpt": 50250,
+    "lon": -1.63333,
+    "lat": 49.2833,
+    "code": "PyAZEH"
+  },
+  {
+    "Ville": "Glatigny",
+    "dpt": 57530,
+    "lon": 6.33333,
+    "lat": 49.15,
+    "code": "WlvSJT"
+  },
+  {
+    "Ville": "Glatigny",
+    "dpt": 60650,
+    "lon": 1.9,
+    "lat": 49.5,
+    "code": "hwIikq"
+  },
+  {
+    "Ville": "Gonfreville-l'Orcher",
+    "dpt": 76700,
+    "lon": 0.233333,
+    "lat": 49.5,
+    "code": "DfNLiK"
+  },
+  {
+    "Ville": "Gonneville-sur-Mer",
+    "dpt": 14510,
+    "lon": -0.033333,
+    "lat": 49.2833,
+    "code": "JnIjVX"
+  },
+  {
+    "Ville": "Gouberville",
+    "dpt": 50330,
+    "lon": -1.31667,
+    "lat": 49.6833,
+    "code": "LmeTZX"
+  },
+  {
+    "Ville": "Goulien",
+    "dpt": 29770,
+    "lon": -4.6,
+    "lat": 48.05,
+    "code": "Fvxodo"
+  },
+  {
+    "Ville": "Goulven",
+    "dpt": 29890,
+    "lon": -4.3,
+    "lat": 48.6333,
+    "code": "zrFBNi"
+  },
+  {
+    "Ville": "Gourbeyre",
+    "dpt": 97113,
+    "lon": 15.9952,
+    "lat": -61.7078,
+    "code": "VLIEQf"
+  },
+  {
+    "Ville": "Gouville-sur-Mer",
+    "dpt": 50560,
+    "lon": -1.58333,
+    "lat": 49.1,
+    "code": "tOzizu"
+  },
+  {
+    "Ville": "Goyave",
+    "dpt": 97128,
+    "lon": 16.1335,
+    "lat": -61.5766,
+    "code": "DjThrw"
+  },
+  {
+    "Ville": "Grand-Bourg",
+    "dpt": 97112,
+    "lon": 15.8828,
+    "lat": -61.3157,
+    "code": "BsjdgN"
+  },
+  {
+    "Ville": "Grand-Fort-Philippe",
+    "dpt": 59153,
+    "lon": 2.10833,
+    "lat": 51,
+    "code": "IpSjyx"
+  },
+  {
+    "Ville": "Grand'Rivière",
+    "dpt": 97218,
+    "lon": 14.8732,
+    "lat": -61.1797,
+    "code": "WHSVKH"
+  },
+  {
+    "Ville": "Grandcamp-Maisy",
+    "dpt": 14450,
+    "lon": 0.95889,
+    "lat": 49.3876,
+    "code": "Mwflbz"
+  },
+  {
+    "Ville": "Grande-Synthe",
+    "dpt": 59760,
+    "lon": 2.28333,
+    "lat": 51.0167,
+    "code": "zwuHcB"
+  },
+  {
+    "Ville": "Granville",
+    "dpt": 50400,
+    "lon": -1.6,
+    "lat": 48.8333,
+    "code": "ezceQn"
+  },
+  {
+    "Ville": "Gravelines",
+    "dpt": 59820,
+    "lon": 2.125,
+    "lat": 50.9833,
+    "code": "fqXIaL"
+  },
+  {
+    "Ville": "Grayan-et-l'Hôpital",
+    "dpt": 33590,
+    "lon": -1.08333,
+    "lat": 45.4417,
+    "code": "ShbeXb"
+  },
+  {
+    "Ville": "Graye-sur-Mer",
+    "dpt": 14470,
+    "lon": -0.466667,
+    "lat": 49.3333,
+    "code": "kjngiy"
+  },
+  {
+    "Ville": "Gréville-Hague",
+    "dpt": 50440,
+    "lon": -1.8,
+    "lat": 49.6667,
+    "code": "RPgnwd"
+  },
+  {
+    "Ville": "Grimaud",
+    "dpt": 83310,
+    "lon": 6.51667,
+    "lat": 43.2667,
+    "code": "hsSQdG"
+  },
+  {
+    "Ville": "Groffliers",
+    "dpt": 62600,
+    "lon": 1.61667,
+    "lat": 50.3833,
+    "code": "birZUa"
+  },
+  {
+    "Ville": "Groix",
+    "dpt": 56590,
+    "lon": -3.46667,
+    "lat": 47.6333,
+    "code": "JYBOre"
+  },
+  {
+    "Ville": "Grosseto-Prugna",
+    "dpt": 20128,
+    "lon": 8.96362,
+    "lat": 41.8714,
+    "code": "iybYyb"
+  },
+  {
+    "Ville": "Grues",
+    "dpt": 85580,
+    "lon": -1.3,
+    "lat": 46.3833,
+    "code": "hQdMXH"
+  },
+  {
+    "Ville": "Gruissan",
+    "dpt": 11430,
+    "lon": 3.08333,
+    "lat": 43.1,
+    "code": "irMjtK"
+  },
+  {
+    "Ville": "Guérande",
+    "dpt": 44350,
+    "lon": -2.43333,
+    "lat": 47.3333,
+    "code": "YPwXVx"
+  },
+  {
+    "Ville": "Guéthary",
+    "dpt": 64210,
+    "lon": -1.6,
+    "lat": 43.4167,
+    "code": "Tfvaif"
+  },
+  {
+    "Ville": "Guidel",
+    "dpt": 56520,
+    "lon": 2.51139,
+    "lat": 47.7906,
+    "code": "qvtsDF"
+  },
+  {
+    "Ville": "Guilvinec",
+    "dpt": 29730,
+    "lon": 3.71611,
+    "lat": 47.7953,
+    "code": "qPQMif"
+  },
+  {
+    "Ville": "Guimaëc",
+    "dpt": 29620,
+    "lon": -3.7,
+    "lat": 48.6667,
+    "code": "UgkpYu"
+  },
+  {
+    "Ville": "Guipavas",
+    "dpt": 29490,
+    "lon": -4.4,
+    "lat": 48.4333,
+    "code": "baVNeM"
+  },
+  {
+    "Ville": "Guissény",
+    "dpt": 29880,
+    "lon": -4.41667,
+    "lat": 48.6333,
+    "code": "QQNrto"
+  },
+  {
+    "Ville": "Gujan-Mestras",
+    "dpt": 33470,
+    "lon": -1.06667,
+    "lat": 44.6333,
+    "code": "PqqOby"
+  },
+  {
+    "Ville": "Hanvec",
+    "dpt": 29460,
+    "lon": -4.16667,
+    "lat": 48.3333,
+    "code": "RPGZDh"
+  },
+  {
+    "Ville": "Hauteville-sur-Mer",
+    "dpt": 50590,
+    "lon": -1.53333,
+    "lat": 48.9833,
+    "code": "PumJVH"
+  },
+  {
+    "Ville": "Hautot-sur-Mer",
+    "dpt": 76550,
+    "lon": 1.03333,
+    "lat": 49.9,
+    "code": "SzJThe"
+  },
+  {
+    "Ville": "Héauville",
+    "dpt": 50340,
+    "lon": -1.8,
+    "lat": 49.5833,
+    "code": "YigWWL"
+  },
+  {
+    "Ville": "Hendaye",
+    "dpt": 64700,
+    "lon": -1.775,
+    "lat": 43.3583,
+    "code": "hymjqV"
+  },
+  {
+    "Ville": "Henvic",
+    "dpt": 29670,
+    "lon": -3.93333,
+    "lat": 48.6333,
+    "code": "DcxVJd"
+  },
+  {
+    "Ville": "Hermanville-sur-Mer",
+    "dpt": 14880,
+    "lon": -0.316667,
+    "lat": 49.2833,
+    "code": "rktKHW"
+  },
+  {
+    "Ville": "Herqueville",
+    "dpt": 27430,
+    "lon": 1.26667,
+    "lat": 49.25,
+    "code": "qttPOx"
+  },
+  {
+    "Ville": "Herqueville",
+    "dpt": 50440,
+    "lon": -1.88333,
+    "lat": 49.6667,
+    "code": "alAKZU"
+  },
+  {
+    "Ville": "Heugueville-sur-Sienne",
+    "dpt": 50200,
+    "lon": -1.51667,
+    "lat": 49.0333,
+    "code": "vaMpUY"
+  },
+  {
+    "Ville": "Heuqueville",
+    "dpt": 27700,
+    "lon": 1.33333,
+    "lat": 49.2833,
+    "code": "XGWHFe"
+  },
+  {
+    "Ville": "Heuqueville",
+    "dpt": 76280,
+    "lon": 0.148889,
+    "lat": 49.6156,
+    "code": "DdIxRD"
+  },
+  {
+    "Ville": "Hiers-Brouage",
+    "dpt": 17320,
+    "lon": -1.06667,
+    "lat": 45.85,
+    "code": "vFHkvU"
+  },
+  {
+    "Ville": "Hillion",
+    "dpt": 22120,
+    "lon": -2.68333,
+    "lat": 48.5167,
+    "code": "LqLXnL"
+  },
+  {
+    "Ville": "Hirel",
+    "dpt": 35120,
+    "lon": -1.8,
+    "lat": 48.6,
+    "code": "HXQhJS"
+  },
+  {
+    "Ville": "Honfleur",
+    "dpt": 14600,
+    "lon": 0.233333,
+    "lat": 49.4167,
+    "code": "TGnGEG"
+  },
+  {
+    "Ville": "Hôpital-Camfrout",
+    "dpt": 29460,
+    "lon": -4.23333,
+    "lat": 48.3333,
+    "code": "aLHIzK"
+  },
+  {
+    "Ville": "Houlgate",
+    "dpt": 14510,
+    "lon": -0.066667,
+    "lat": 49.3,
+    "code": "SZlQxA"
+  },
+  {
+    "Ville": "Hourtin",
+    "dpt": 33990,
+    "lon": -1.06667,
+    "lat": 45.2,
+    "code": "vqWUqF"
+  },
+  {
+    "Ville": "Huisnes-sur-Mer",
+    "dpt": 50170,
+    "lon": -1.45,
+    "lat": 48.6,
+    "code": "tVHcTP"
+  },
+  {
+    "Ville": "Hyères",
+    "dpt": 83400,
+    "lon": 6.11667,
+    "lat": 43.1167,
+    "code": "PkuHsr"
+  },
+  {
+    "Ville": "Ingouville",
+    "dpt": 76460,
+    "lon": 0.683333,
+    "lat": 49.8333,
+    "code": "hbcvpz"
+  },
+  {
+    "Ville": "Iracoubo",
+    "dpt": 97350,
+    "lon": 5.47912,
+    "lat": -53.2076,
+    "code": "aSJskq"
+  },
+  {
+    "Ville": "Istres",
+    "dpt": 13118,
+    "lon": 4.98333,
+    "lat": 43.5167,
+    "code": "DrjKxm"
+  },
+  {
+    "Ville": "Jard-sur-Mer",
+    "dpt": 85520,
+    "lon": -1.58333,
+    "lat": 46.4167,
+    "code": "ftMudF"
+  },
+  {
+    "Ville": "Jobourg",
+    "dpt": 50440,
+    "lon": -1.90375,
+    "lat": 49.6833,
+    "code": "bUTPIQ"
+  },
+  {
+    "Ville": "Jullouville",
+    "dpt": 50610,
+    "lon": 0.434168,
+    "lat": 48.7748,
+    "code": "VEnvXi"
+  },
+  {
+    "Ville": "Kerbors",
+    "dpt": 22610,
+    "lon": -3.18333,
+    "lat": 48.8333,
+    "code": "TWaEdh"
+  },
+  {
+    "Ville": "Kerlaz",
+    "dpt": 29100,
+    "lon": -4.26667,
+    "lat": 48.0833,
+    "code": "FfTZBT"
+  },
+  {
+    "Ville": "Kerlouan",
+    "dpt": 29890,
+    "lon": -4.36667,
+    "lat": 48.65,
+    "code": "myybtS"
+  },
+  {
+    "Ville": "Kervignac",
+    "dpt": 56700,
+    "lon": -3.23333,
+    "lat": 47.7667,
+    "code": "cgleyo"
+  },
+  {
+    "Ville": "Kourou",
+    "dpt": 97310,
+    "lon": 1.19,
+    "lat": -52.6456,
+    "code": "EXVhaV"
+  },
+  {
+    "Ville": "L'Aiguillon-sur-Mer",
+    "dpt": 85460,
+    "lon": -1.3,
+    "lat": 46.3333,
+    "code": "qpohwP"
+  },
+  {
+    "Ville": "L'Houmeau",
+    "dpt": 17137,
+    "lon": -1.16667,
+    "lat": 46.1833,
+    "code": "HSnOUb"
+  },
+  {
+    "Ville": "La Barre-de-Monts",
+    "dpt": 85550,
+    "lon": -2.13333,
+    "lat": 46.8833,
+    "code": "CupKox"
+  },
+  {
+    "Ville": "La Baule-Escoublac",
+    "dpt": 44500,
+    "lon": -2.36667,
+    "lat": 47.3,
+    "code": "jALQCG"
+  },
+  {
+    "Ville": "La Bernerie-en-Retz",
+    "dpt": 44760,
+    "lon": -2.03333,
+    "lat": 47.0833,
+    "code": "OFVSID"
+  },
+  {
+    "Ville": "La Brée-les-Bains",
+    "dpt": 17840,
+    "lon": -1.35,
+    "lat": 46.0167,
+    "code": "bkHEOT"
+  },
+  {
+    "Ville": "La Ciotat",
+    "dpt": 13600,
+    "lon": 5.6,
+    "lat": 43.1667,
+    "code": "CQxUNQ"
+  },
+  {
+    "Ville": "La Couarde-sur-Mer",
+    "dpt": 17670,
+    "lon": -1.4,
+    "lat": 46.2,
+    "code": "ZSdXPs"
+  },
+  {
+    "Ville": "La Croix-Valmer",
+    "dpt": 83420,
+    "lon": 6.56667,
+    "lat": 43.2,
+    "code": "hyzQfI"
+  },
+  {
+    "Ville": "La Faute-sur-Mer",
+    "dpt": 85460,
+    "lon": -1.31667,
+    "lat": 46.3167,
+    "code": "Lghhiv"
+  },
+  {
+    "Ville": "La Flotte",
+    "dpt": 17630,
+    "lon": -1.33333,
+    "lat": 46.1833,
+    "code": "lMKHsH"
+  },
+  {
+    "Ville": "La Forest-Landerneau",
+    "dpt": 29800,
+    "lon": -4.31667,
+    "lat": 48.4333,
+    "code": "JZazuk"
+  },
+  {
+    "Ville": "La Forêt-Fouesnant",
+    "dpt": 29940,
+    "lon": -3.98333,
+    "lat": 47.9167,
+    "code": "VaeVTN"
+  },
+  {
+    "Ville": "La Garde",
+    "dpt": 4120,
+    "lon": 6.55,
+    "lat": 43.8333,
+    "code": "lAouvU"
+  },
+  {
+    "Ville": "La Garde",
+    "dpt": 38520,
+    "lon": 6.04584,
+    "lat": 45.0689,
+    "code": "kRzQhv"
+  },
+  {
+    "Ville": "La Garde",
+    "dpt": 83130,
+    "lon": 6.01056,
+    "lat": 43.1248,
+    "code": "hSqphO"
+  },
+  {
+    "Ville": "La Grande-Motte",
+    "dpt": 34280,
+    "lon": 4.08333,
+    "lat": 43.5667,
+    "code": "yqYGEz"
+  },
+  {
+    "Ville": "La Guérinière",
+    "dpt": 85680,
+    "lon": -2.23333,
+    "lat": 46.9667,
+    "code": "QhhvMy"
+  },
+  {
+    "Ville": "La Londe-les-Maures",
+    "dpt": 83250,
+    "lon": 6.23333,
+    "lat": 43.1333,
+    "code": "UahAgG"
+  },
+  {
+    "Ville": "La Palme",
+    "dpt": 11480,
+    "lon": 2.99306,
+    "lat": 42.9748,
+    "code": "bZLVeQ"
+  },
+  {
+    "Ville": "La Plaine-sur-Mer",
+    "dpt": 44770,
+    "lon": -2.16667,
+    "lat": 47.1333,
+    "code": "ekOBUr"
+  },
+  {
+    "Ville": "La Poterie-Cap-d'Antifer",
+    "dpt": 76280,
+    "lon": 0.183333,
+    "lat": 49.6667,
+    "code": "wahvWS"
+  },
+  {
+    "Ville": "La Richardais",
+    "dpt": 35780,
+    "lon": -2.03333,
+    "lat": 48.6,
+    "code": "aaJBVK"
+  },
+  {
+    "Ville": "La Rivière-Saint-Sauveur",
+    "dpt": 14600,
+    "lon": 0.266667,
+    "lat": 49.4167,
+    "code": "znKxxQ"
+  },
+  {
+    "Ville": "La Rochelle",
+    "dpt": 17000,
+    "lon": -1.15,
+    "lat": 46.1667,
+    "code": "nQYGtJ"
+  },
+  {
+    "Ville": "La Rochelle",
+    "dpt": 70120,
+    "lon": 5.73333,
+    "lat": 47.75,
+    "code": "wnkxVO"
+  },
+  {
+    "Ville": "La Seyne-sur-Mer",
+    "dpt": 83500,
+    "lon": 5.88333,
+    "lat": 43.1,
+    "code": "wtewbB"
+  },
+  {
+    "Ville": "La Teste-de-Buch",
+    "dpt": 33260,
+    "lon": -1.13704,
+    "lat": 44.6343,
+    "code": "WWogWq"
+  },
+  {
+    "Ville": "La Tranche-sur-Mer",
+    "dpt": 85360,
+    "lon": -1.43333,
+    "lat": 46.3333,
+    "code": "oyjbUP"
+  },
+  {
+    "Ville": "La Tremblade",
+    "dpt": 17390,
+    "lon": -1.13333,
+    "lat": 45.7667,
+    "code": "tUAobX"
+  },
+  {
+    "Ville": "La Trinité",
+    "dpt": 6340,
+    "lon": 7.31667,
+    "lat": 43.75,
+    "code": "VSJvhQ"
+  },
+  {
+    "Ville": "La Trinité",
+    "dpt": 27930,
+    "lon": 1.23333,
+    "lat": 48.9917,
+    "code": "GYaguH"
+  },
+  {
+    "Ville": "La Trinité",
+    "dpt": 50800,
+    "lon": -1.23333,
+    "lat": 48.7833,
+    "code": "JDETkI"
+  },
+  {
+    "Ville": "La Trinité",
+    "dpt": 73110,
+    "lon": 6.15,
+    "lat": 45.5,
+    "code": "KrtFjW"
+  },
+  {
+    "Ville": "La Trinité-sur-Mer",
+    "dpt": 56470,
+    "lon": -3.03333,
+    "lat": 47.5833,
+    "code": "LruDPK"
+  },
+  {
+    "Ville": "La Turballe",
+    "dpt": 44420,
+    "lon": -2.51667,
+    "lat": 47.35,
+    "code": "IkFhiO"
+  },
+  {
+    "Ville": "La Vicomté-sur-Rance",
+    "dpt": 22690,
+    "lon": -1.98333,
+    "lat": 48.5,
+    "code": "ZLtNsS"
+  },
+  {
+    "Ville": "La Ville-ès-Nonais",
+    "dpt": 35430,
+    "lon": -1.95,
+    "lat": 48.55,
+    "code": "UWigFE"
+  },
+  {
+    "Ville": "Labenne",
+    "dpt": 40530,
+    "lon": -1.41667,
+    "lat": 43.6,
+    "code": "hFPkUW"
+  },
+  {
+    "Ville": "Lacanau",
+    "dpt": 33680,
+    "lon": -1.079,
+    "lat": 44.9833,
+    "code": "OlIdlH"
+  },
+  {
+    "Ville": "Lamentin",
+    "dpt": 97129,
+    "lon": 16.2713,
+    "lat": -61.6338,
+    "code": "fNdZTx"
+  },
+  {
+    "Ville": "Lamentin",
+    "dpt": 97232,
+    "lon": 14.6191,
+    "lat": -60.9946,
+    "code": "YqkzbN"
+  },
+  {
+    "Ville": "Lampaul-Plouarzel",
+    "dpt": 29810,
+    "lon": -4.76667,
+    "lat": 48.45,
+    "code": "FqIInO"
+  },
+  {
+    "Ville": "Lampaul-Ploudalmézeau",
+    "dpt": 29830,
+    "lon": -4.65,
+    "lat": 48.5667,
+    "code": "nHcNvS"
+  },
+  {
+    "Ville": "Lanchères",
+    "dpt": 80230,
+    "lon": 1.55,
+    "lat": 50.1667,
+    "code": "BdeajV"
+  },
+  {
+    "Ville": "Lancieux",
+    "dpt": 22770,
+    "lon": -2.15,
+    "lat": 48.6167,
+    "code": "GjHDgN"
+  },
+  {
+    "Ville": "Landaul",
+    "dpt": 56690,
+    "lon": -3.06667,
+    "lat": 47.75,
+    "code": "ppnKZC"
+  },
+  {
+    "Ville": "Landéda",
+    "dpt": 29870,
+    "lon": -4.56667,
+    "lat": 48.5833,
+    "code": "bkQwWr"
+  },
+  {
+    "Ville": "Landerneau",
+    "dpt": 29800,
+    "lon": -4.25,
+    "lat": 48.45,
+    "code": "ZCxrWA"
+  },
+  {
+    "Ville": "Landévant",
+    "dpt": 56690,
+    "lon": -3.11667,
+    "lat": 47.7667,
+    "code": "pDzSqM"
+  },
+  {
+    "Ville": "Landévennec",
+    "dpt": 29560,
+    "lon": -4.26667,
+    "lat": 48.3,
+    "code": "EnvhnP"
+  },
+  {
+    "Ville": "Landunvez",
+    "dpt": 29840,
+    "lon": -4.73333,
+    "lat": 48.5333,
+    "code": "nHnARS"
+  },
+  {
+    "Ville": "Lanester",
+    "dpt": 56600,
+    "lon": -3.35,
+    "lat": 47.75,
+    "code": "vRuJcQ"
+  },
+  {
+    "Ville": "Langrolay-sur-Rance",
+    "dpt": 22490,
+    "lon": 1.9975,
+    "lat": 48.5542,
+    "code": "UItiSx"
+  },
+  {
+    "Ville": "Langrune-sur-Mer",
+    "dpt": 14830,
+    "lon": -0.366667,
+    "lat": 49.3167,
+    "code": "EsbDPK"
+  },
+  {
+    "Ville": "Langueux",
+    "dpt": 22360,
+    "lon": -2.71667,
+    "lat": 48.5,
+    "code": "rQYmsu"
+  },
+  {
+    "Ville": "Lanildut",
+    "dpt": 29840,
+    "lon": -4.75,
+    "lat": 48.4833,
+    "code": "VaZbkG"
+  },
+  {
+    "Ville": "Lanmodez",
+    "dpt": 22610,
+    "lon": -3.1,
+    "lat": 48.85,
+    "code": "rgXAIJ"
+  },
+  {
+    "Ville": "Lannilis",
+    "dpt": 29870,
+    "lon": -4.51667,
+    "lat": 48.5667,
+    "code": "WwzHai"
+  },
+  {
+    "Ville": "Lannion",
+    "dpt": 22300,
+    "lon": -3.46667,
+    "lat": 48.7333,
+    "code": "EMpLls"
+  },
+  {
+    "Ville": "Lansargues",
+    "dpt": 34130,
+    "lon": 4.06667,
+    "lat": 43.65,
+    "code": "WIzUCs"
+  },
+  {
+    "Ville": "Lanton",
+    "dpt": 33138,
+    "lon": -1.03333,
+    "lat": 44.7,
+    "code": "ctEMxB"
+  },
+  {
+    "Ville": "Lanvéoc",
+    "dpt": 29160,
+    "lon": -4.46667,
+    "lat": 48.2833,
+    "code": "IyEBkU"
+  },
+  {
+    "Ville": "Larmor-Baden",
+    "dpt": 56870,
+    "lon": -2.9,
+    "lat": 47.5833,
+    "code": "WkfXef"
+  },
+  {
+    "Ville": "Larmor-Plage",
+    "dpt": 56260,
+    "lon": -3.38333,
+    "lat": 47.7,
+    "code": "SlwKLh"
+  },
+  {
+    "Ville": "Lattes",
+    "dpt": 34970,
+    "lon": 3.9,
+    "lat": 43.5667,
+    "code": "PcnpVc"
+  },
+  {
+    "Ville": "Le Barcarès",
+    "dpt": 66420,
+    "lon": 3.03333,
+    "lat": 42.7833,
+    "code": "cfbHGL"
+  },
+  {
+    "Ville": "Le Bois-Plage-en-Ré",
+    "dpt": 17580,
+    "lon": -1.38333,
+    "lat": 46.1833,
+    "code": "GuWDjO"
+  },
+  {
+    "Ville": "Le Château-d'Oléron",
+    "dpt": 17480,
+    "lon": -1.2,
+    "lat": 45.9,
+    "code": "RzVNJu"
+  },
+  {
+    "Ville": "Le Conquet",
+    "dpt": 29217,
+    "lon": -4.76667,
+    "lat": 48.3667,
+    "code": "RNEptY"
+  },
+  {
+    "Ville": "Le Croisic",
+    "dpt": 44490,
+    "lon": -2.51667,
+    "lat": 47.3,
+    "code": "SCavJR"
+  },
+  {
+    "Ville": "Le Crotoy",
+    "dpt": 80550,
+    "lon": 1.61667,
+    "lat": 50.2167,
+    "code": "DCblMe"
+  },
+  {
+    "Ville": "Le Faou",
+    "dpt": 29590,
+    "lon": -4.18333,
+    "lat": 48.3,
+    "code": "hAlLdQ"
+  },
+  {
+    "Ville": "Le Fenouiller",
+    "dpt": 85800,
+    "lon": -1.91667,
+    "lat": 46.7167,
+    "code": "zfWbqY"
+  },
+  {
+    "Ville": "Le Grand-Village-Plage",
+    "dpt": 17370,
+    "lon": 0.763334,
+    "lat": 45.86,
+    "code": "JmAORk"
+  },
+  {
+    "Ville": "Le Grau-du-Roi",
+    "dpt": 30240,
+    "lon": 4.14167,
+    "lat": 43.5333,
+    "code": "JMwhas"
+  },
+  {
+    "Ville": "Le Gua",
+    "dpt": 17600,
+    "lon": -0.95,
+    "lat": 45.7333,
+    "code": "qpJAAU"
+  },
+  {
+    "Ville": "Le Gua",
+    "dpt": 38450,
+    "lon": 5.61667,
+    "lat": 45.0167,
+    "code": "oUmIZn"
+  },
+  {
+    "Ville": "Le Havre",
+    "dpt": 76600,
+    "lon": 0.133333,
+    "lat": 49.5,
+    "code": "mGZVJX"
+  },
+  {
+    "Ville": "Le Hézo",
+    "dpt": "",
+    "lon": -2.7,
+    "lat": 47.5833,
+    "code": "iJhJLP"
+  },
+  {
+    "Ville": "Le Lavandou",
+    "dpt": 83980,
+    "lon": 6.36667,
+    "lat": 43.1333,
+    "code": "POaNWj"
+  },
+  {
+    "Ville": "Le Minihic-sur-Rance",
+    "dpt": 35870,
+    "lon": -2.01667,
+    "lat": 48.5833,
+    "code": "HPjMOL"
+  },
+  {
+    "Ville": "Le Mont-Saint-Michel",
+    "dpt": 50170,
+    "lon": 0.489723,
+    "lat": 48.6359,
+    "code": "HQQSZe"
+  },
+  {
+    "Ville": "Le Palais",
+    "dpt": 56360,
+    "lon": -3.15,
+    "lat": 47.35,
+    "code": "oekfRC"
+  },
+  {
+    "Ville": "Le Porge",
+    "dpt": 33680,
+    "lon": -1.091,
+    "lat": 44.8667,
+    "code": "dyItto"
+  },
+  {
+    "Ville": "Le Port",
+    "dpt": 9320,
+    "lon": 1.36667,
+    "lat": 42.8667,
+    "code": "iXHfEP"
+  },
+  {
+    "Ville": "Le Portel",
+    "dpt": 62480,
+    "lon": 1.56667,
+    "lat": 50.7,
+    "code": "QzSnOo"
+  },
+  {
+    "Ville": "Le Pouliguen",
+    "dpt": 44510,
+    "lon": -2.43333,
+    "lat": 47.2667,
+    "code": "lwFAdM"
+  },
+  {
+    "Ville": "Le Pradet",
+    "dpt": 83220,
+    "lon": 6.01667,
+    "lat": 43.1,
+    "code": "GjCKoH"
+  },
+  {
+    "Ville": "Le Relecq-Kerhuon",
+    "dpt": 29480,
+    "lon": -4.4,
+    "lat": 48.4,
+    "code": "NKCJux"
+  },
+  {
+    "Ville": "Le Rove",
+    "dpt": 13740,
+    "lon": 5.25,
+    "lat": 43.3667,
+    "code": "vQMaRT"
+  },
+  {
+    "Ville": "Le Rozel",
+    "dpt": 50340,
+    "lon": -1.83333,
+    "lat": 49.4833,
+    "code": "rKVyTp"
+  },
+  {
+    "Ville": "Le Teich",
+    "dpt": 33470,
+    "lon": -1.01667,
+    "lat": 44.6333,
+    "code": "eBuzDk"
+  },
+  {
+    "Ville": "Le Tilleul",
+    "dpt": 76790,
+    "lon": 0.2,
+    "lat": 49.6833,
+    "code": "scRTTI"
+  },
+  {
+    "Ville": "Le Touquet-Paris-Plage",
+    "dpt": 62520,
+    "lon": 1.58333,
+    "lat": 50.5167,
+    "code": "hSOrHr"
+  },
+  {
+    "Ville": "Le Tour-du-Parc",
+    "dpt": 56370,
+    "lon": -2.65,
+    "lat": 47.5167,
+    "code": "pXuDxc"
+  },
+  {
+    "Ville": "Le Tréport",
+    "dpt": 76470,
+    "lon": 1.36667,
+    "lat": 50.0667,
+    "code": "fenTXA"
+  },
+  {
+    "Ville": "Le Val-Saint-Père",
+    "dpt": 50300,
+    "lon": -1.35,
+    "lat": 48.6667,
+    "code": "ltCVLB"
+  },
+  {
+    "Ville": "Le Verdon-sur-Mer",
+    "dpt": 33123,
+    "lon": -1.06667,
+    "lat": 45.5417,
+    "code": "ioBlws"
+  },
+  {
+    "Ville": "Le Vivier-sur-Mer",
+    "dpt": 35960,
+    "lon": -1.78333,
+    "lat": 48.6,
+    "code": "cVkTyu"
+  },
+  {
+    "Ville": "Lecci",
+    "dpt": 20137,
+    "lon": 9.31751,
+    "lat": 41.6792,
+    "code": "wwnSgl"
+  },
+  {
+    "Ville": "Leffrinckoucke",
+    "dpt": 59495,
+    "lon": 2.46667,
+    "lat": 51.0333,
+    "code": "tRHNKv"
+  },
+  {
+    "Ville": "Lège-Cap-Ferret",
+    "dpt": 33950,
+    "lon": 0.853612,
+    "lat": 44.7931,
+    "code": "IRleTZ"
+  },
+  {
+    "Ville": "Les Anses-d'Arlet",
+    "dpt": 97217,
+    "lon": -61.0806,
+    "lat": 14.4906,
+    "code": "qgtMjx"
+  },
+  {
+    "Ville": "Lessay",
+    "dpt": 50430,
+    "lon": -1.53333,
+    "lat": 49.2167,
+    "code": "ijDcsD"
+  },
+  {
+    "Ville": "Lestre",
+    "dpt": 50310,
+    "lon": -1.33333,
+    "lat": 49.5167,
+    "code": "PBMMIZ"
+  },
+  {
+    "Ville": "Leucate",
+    "dpt": 11370,
+    "lon": 3.03333,
+    "lat": 42.9167,
+    "code": "iiClRC"
+  },
+  {
+    "Ville": "Lézardrieux",
+    "dpt": 22740,
+    "lon": -3.1,
+    "lat": 48.7667,
+    "code": "AijEHH"
+  },
+  {
+    "Ville": "Lingreville",
+    "dpt": 50660,
+    "lon": -1.53333,
+    "lat": 48.95,
+    "code": "FEVMce"
+  },
+  {
+    "Ville": "Linguizzetta",
+    "dpt": 20230,
+    "lon": 9.47306,
+    "lat": 42.2639,
+    "code": "LkANuN"
+  },
+  {
+    "Ville": "Lion-sur-Mer",
+    "dpt": 14780,
+    "lon": -0.316667,
+    "lat": 49.3,
+    "code": "IMsMDh"
+  },
+  {
+    "Ville": "Lit-et-Mixe",
+    "dpt": 40170,
+    "lon": -1.25,
+    "lat": 44.0333,
+    "code": "ONjLoX"
+  },
+  {
+    "Ville": "Locmaria",
+    "dpt": 56360,
+    "lon": -3.08333,
+    "lat": 47.2917,
+    "code": "HKOASS"
+  },
+  {
+    "Ville": "Locmaria-Plouzané",
+    "dpt": 29280,
+    "lon": 3.35639,
+    "lat": 48.3748,
+    "code": "eQONTI"
+  },
+  {
+    "Ville": "Locmariaquer",
+    "dpt": 56740,
+    "lon": -2.95,
+    "lat": 47.5667,
+    "code": "bDiYqI"
+  },
+  {
+    "Ville": "Locmiquélic",
+    "dpt": 56570,
+    "lon": -3.35,
+    "lat": 47.7167,
+    "code": "QnIQbG"
+  },
+  {
+    "Ville": "Locoal-Mendon",
+    "dpt": 56550,
+    "lon": -3.1,
+    "lat": 47.7167,
+    "code": "ZaGLuo"
+  },
+  {
+    "Ville": "Locquénolé",
+    "dpt": 29670,
+    "lon": -3.86667,
+    "lat": 48.6167,
+    "code": "PXODFl"
+  },
+  {
+    "Ville": "Locquirec",
+    "dpt": 29241,
+    "lon": -3.65,
+    "lat": 48.7,
+    "code": "fwOwrQ"
+  },
+  {
+    "Ville": "Loctudy",
+    "dpt": 29750,
+    "lon": -4.16667,
+    "lat": 47.8333,
+    "code": "LumLDM"
+  },
+  {
+    "Ville": "Logonna-Daoulas",
+    "dpt": 29460,
+    "lon": -4.3,
+    "lat": 48.3167,
+    "code": "ZALvXi"
+  },
+  {
+    "Ville": "Loix",
+    "dpt": 17111,
+    "lon": -1.43794,
+    "lat": 46.2235,
+    "code": "gwpgJF"
+  },
+  {
+    "Ville": "Longeville-sur-Mer",
+    "dpt": 85560,
+    "lon": 0.510557,
+    "lat": 46.4245,
+    "code": "vQzlhz"
+  },
+  {
+    "Ville": "Longues-sur-Mer",
+    "dpt": 14400,
+    "lon": -0.7,
+    "lat": 49.3333,
+    "code": "xySjKW"
+  },
+  {
+    "Ville": "Loon-Plage",
+    "dpt": 59279,
+    "lon": 2.21667,
+    "lat": 50.9833,
+    "code": "YEkDZx"
+  },
+  {
+    "Ville": "Loperhet",
+    "dpt": 29470,
+    "lon": -4.3,
+    "lat": 48.3833,
+    "code": "xIORmL"
+  },
+  {
+    "Ville": "Lorient",
+    "dpt": 56100,
+    "lon": -3.36667,
+    "lat": 47.75,
+    "code": "zqvkKD"
+  },
+  {
+    "Ville": "Louannec",
+    "dpt": 22700,
+    "lon": -3.41667,
+    "lat": 48.8,
+    "code": "pBQDLI"
+  },
+  {
+    "Ville": "Loupian",
+    "dpt": 34140,
+    "lon": 3.61667,
+    "lat": 43.45,
+    "code": "jpZuAT"
+  },
+  {
+    "Ville": "Louvières",
+    "dpt": 14710,
+    "lon": -0.916667,
+    "lat": 49.3667,
+    "code": "rjSXfN"
+  },
+  {
+    "Ville": "Louvières",
+    "dpt": 52800,
+    "lon": 5.28333,
+    "lat": 48.0333,
+    "code": "DRKaye"
+  },
+  {
+    "Ville": "Luc-sur-Mer",
+    "dpt": 14530,
+    "lon": -0.35,
+    "lat": 49.3,
+    "code": "ZmHEfK"
+  },
+  {
+    "Ville": "Lucciana",
+    "dpt": 20290,
+    "lon": 9.41723,
+    "lat": 42.5459,
+    "code": "iujnyr"
+  },
+  {
+    "Ville": "Lumio",
+    "dpt": 20260,
+    "lon": 8.83334,
+    "lat": 42.5784,
+    "code": "SafRlI"
+  },
+  {
+    "Ville": "Luri",
+    "dpt": 20228,
+    "lon": 9.40529,
+    "lat": 42.8967,
+    "code": "xKvoqO"
+  },
+  {
+    "Ville": "Macouba",
+    "dpt": 97218,
+    "lon": 14.877,
+    "lat": -61.1398,
+    "code": "aXxUgJ"
+  },
+  {
+    "Ville": "Mana",
+    "dpt": 97360,
+    "lon": 5.6683,
+    "lat": -53.7782,
+    "code": "GfGGJR"
+  },
+  {
+    "Ville": "Mandelieu-la-Napoule",
+    "dpt": 6210,
+    "lon": 6.93333,
+    "lat": 43.55,
+    "code": "NmJAXm"
+  },
+  {
+    "Ville": "Manneville-ès-Plains",
+    "dpt": 76460,
+    "lon": 0.75,
+    "lat": 49.85,
+    "code": "YnssTr"
+  },
+  {
+    "Ville": "Manvieux",
+    "dpt": 14117,
+    "lon": -0.65,
+    "lat": 49.3333,
+    "code": "CirHUa"
+  },
+  {
+    "Ville": "Marcey-les-Grèves",
+    "dpt": 50300,
+    "lon": -1.38333,
+    "lat": 48.7,
+    "code": "qcBHRi"
+  },
+  {
+    "Ville": "Marck",
+    "dpt": 62730,
+    "lon": 1.95,
+    "lat": 50.95,
+    "code": "wYOWmW"
+  },
+  {
+    "Ville": "Marennes",
+    "dpt": 17320,
+    "lon": -1.11667,
+    "lat": 45.8167,
+    "code": "ulRlYJ"
+  },
+  {
+    "Ville": "Marennes",
+    "dpt": 69970,
+    "lon": 4.9,
+    "lat": 45.6167,
+    "code": "yectTL"
+  },
+  {
+    "Ville": "Marignane",
+    "dpt": 13700,
+    "lon": 5.21667,
+    "lat": 43.4167,
+    "code": "GdQzxX"
+  },
+  {
+    "Ville": "Marseillan",
+    "dpt": 32170,
+    "lon": 0.316667,
+    "lat": 43.4833,
+    "code": "sdZdJS"
+  },
+  {
+    "Ville": "Marseillan",
+    "dpt": 34340,
+    "lon": 3.53333,
+    "lat": 43.35,
+    "code": "JtjePI"
+  },
+  {
+    "Ville": "Marseillan",
+    "dpt": 65350,
+    "lon": 0.216667,
+    "lat": 43.3,
+    "code": "DseZjo"
+  },
+  {
+    "Ville": "Marseille",
+    "dpt": 13001,
+    "lon": 5.37639,
+    "lat": 43.2967,
+    "code": "vrOSbF"
+  },
+  {
+    "Ville": "Marsillargues",
+    "dpt": 34590,
+    "lon": 4.18333,
+    "lat": 43.6667,
+    "code": "LsGDsm"
+  },
+  {
+    "Ville": "Marsilly",
+    "dpt": 17137,
+    "lon": -1.11667,
+    "lat": 46.2333,
+    "code": "OEJaNM"
+  },
+  {
+    "Ville": "Marsilly",
+    "dpt": 57530,
+    "lon": 6.3,
+    "lat": 49.1,
+    "code": "Ayphwy"
+  },
+  {
+    "Ville": "Martigues",
+    "dpt": 13117,
+    "lon": "05.05",
+    "lat": 43.4,
+    "code": "XcmRbJ"
+  },
+  {
+    "Ville": "Matignon",
+    "dpt": 22550,
+    "lon": -2.3,
+    "lat": 48.6,
+    "code": "wOkNeJ"
+  },
+  {
+    "Ville": "Matoury",
+    "dpt": 97351,
+    "lon": 4.84806,
+    "lat": -52.3329,
+    "code": "JAKXOp"
+  },
+  {
+    "Ville": "Mauguio",
+    "dpt": 34130,
+    "lon": 4.01667,
+    "lat": 43.6167,
+    "code": "KzUzqL"
+  },
+  {
+    "Ville": "Maupertus-sur-Mer",
+    "dpt": 50330,
+    "lon": -1.48333,
+    "lat": 49.6667,
+    "code": "WKxuir"
+  },
+  {
+    "Ville": "Menton",
+    "dpt": 6500,
+    "lon": 7.5,
+    "lat": 43.7833,
+    "code": "vDvBRd"
+  },
+  {
+    "Ville": "Meria",
+    "dpt": 20287,
+    "lon": 9.45279,
+    "lat": 42.927,
+    "code": "CRPYVv"
+  },
+  {
+    "Ville": "Merlevenez",
+    "dpt": 56700,
+    "lon": -3.23333,
+    "lat": 47.7333,
+    "code": "gqBMrJ"
+  },
+  {
+    "Ville": "Merlimont",
+    "dpt": 62155,
+    "lon": 1.61667,
+    "lat": 50.45,
+    "code": "LxnMCB"
+  },
+  {
+    "Ville": "Mers-les-Bains",
+    "dpt": 80350,
+    "lon": 1.38333,
+    "lat": 50.0667,
+    "code": "GQfhny"
+  },
+  {
+    "Ville": "Merville-Franceville-Plage",
+    "dpt": 14810,
+    "lon": -0.203333,
+    "lat": 49.2781,
+    "code": "AxsoFG"
+  },
+  {
+    "Ville": "Mesquer",
+    "dpt": 44420,
+    "lon": -2.45,
+    "lat": 47.4,
+    "code": "qbYFcn"
+  },
+  {
+    "Ville": "Messanges",
+    "dpt": 21220,
+    "lon": 4.8725,
+    "lat": 47.1623,
+    "code": "FCVgCZ"
+  },
+  {
+    "Ville": "Messanges",
+    "dpt": 40660,
+    "lon": -1.38333,
+    "lat": 43.8167,
+    "code": "mYyWyL"
+  },
+  {
+    "Ville": "Meuvaines",
+    "dpt": 14960,
+    "lon": -0.566667,
+    "lat": 49.3333,
+    "code": "CODYgT"
+  },
+  {
+    "Ville": "Mèze",
+    "dpt": 34140,
+    "lon": 3.6,
+    "lat": 43.4167,
+    "code": "olzCnH"
+  },
+  {
+    "Ville": "Mimizan",
+    "dpt": 40200,
+    "lon": -1.23333,
+    "lat": 44.2,
+    "code": "dumLLk"
+  },
+  {
+    "Ville": "Miramas",
+    "dpt": 13140,
+    "lon": 5,
+    "lat": 43.5833,
+    "code": "BuYMJC"
+  },
+  {
+    "Ville": "Mireval",
+    "dpt": 34110,
+    "lon": 3.8,
+    "lat": 43.5,
+    "code": "JxBVXa"
+  },
+  {
+    "Ville": "Moëlan-sur-Mer",
+    "dpt": 29350,
+    "lon": -3.63333,
+    "lat": 47.8167,
+    "code": "YwTcct"
+  },
+  {
+    "Ville": "Moëze",
+    "dpt": 17780,
+    "lon": -1.03333,
+    "lat": 45.9,
+    "code": "jpExBc"
+  },
+  {
+    "Ville": "Moliets-et-Maa",
+    "dpt": 40660,
+    "lon": -1.35,
+    "lat": 43.85,
+    "code": "cjQMzA"
+  },
+  {
+    "Ville": "Monacia-d'Aullène",
+    "dpt": 20171,
+    "lon": 9.01168,
+    "lat": 41.5134,
+    "code": "HBxoAV"
+  },
+  {
+    "Ville": "Mont-Dol",
+    "dpt": 35120,
+    "lon": -1.76667,
+    "lat": 48.5667,
+    "code": "yoctso"
+  },
+  {
+    "Ville": "Montchaton",
+    "dpt": 50660,
+    "lon": -1.5,
+    "lat": 49.0167,
+    "code": "msoqho"
+  },
+  {
+    "Ville": "Montfarville",
+    "dpt": 50760,
+    "lon": -1.26667,
+    "lat": 49.65,
+    "code": "tTtifa"
+  },
+  {
+    "Ville": "Monticello",
+    "dpt": 20220,
+    "lon": 8.9539,
+    "lat": 42.6173,
+    "code": "erfDWr"
+  },
+  {
+    "Ville": "Montmartin-sur-Mer",
+    "dpt": 50590,
+    "lon": -1.51667,
+    "lat": 48.9833,
+    "code": "MAjKfM"
+  },
+  {
+    "Ville": "Morieux",
+    "dpt": 22400,
+    "lon": -2.6,
+    "lat": 48.5167,
+    "code": "zJMOfF"
+  },
+  {
+    "Ville": "Morlaix",
+    "dpt": 29600,
+    "lon": -3.83333,
+    "lat": 48.5833,
+    "code": "WCvRXP"
+  },
+  {
+    "Ville": "Mornac-sur-Seudre",
+    "dpt": 17113,
+    "lon": -1.03333,
+    "lat": 45.7167,
+    "code": "IqasRu"
+  },
+  {
+    "Ville": "Morne-à-l'Eau",
+    "dpt": 97111,
+    "lon": 16.3257,
+    "lat": -61.4403,
+    "code": "FCwMxs"
+  },
+  {
+    "Ville": "Morsalines",
+    "dpt": 50630,
+    "lon": -1.3,
+    "lat": 49.5667,
+    "code": "lkUkhx"
+  },
+  {
+    "Ville": "Morsiglia",
+    "dpt": 20238,
+    "lon": 9.36445,
+    "lat": 42.9456,
+    "code": "MZWDyQ"
+  },
+  {
+    "Ville": "Muzillac",
+    "dpt": 56190,
+    "lon": -2.48333,
+    "lat": 47.55,
+    "code": "LwOEEO"
+  },
+  {
+    "Ville": "Narbonne",
+    "dpt": 11100,
+    "lon": 3,
+    "lat": 43.1833,
+    "code": "yhaSuP"
+  },
+  {
+    "Ville": "Naujac-sur-Mer",
+    "dpt": 33990,
+    "lon": -1.03333,
+    "lat": 45.25,
+    "code": "YhPVyp"
+  },
+  {
+    "Ville": "Neufchâtel-Hardelot",
+    "dpt": 62152,
+    "lon": 1.63333,
+    "lat": 50.6167,
+    "code": "dXdMqt"
+  },
+  {
+    "Ville": "Névez",
+    "dpt": 29920,
+    "lon": -3.78333,
+    "lat": 47.8167,
+    "code": "uOkjfq"
+  },
+  {
+    "Ville": "Néville-sur-Mer",
+    "dpt": 50330,
+    "lon": -1.33333,
+    "lat": 49.6833,
+    "code": "ynXODX"
+  },
+  {
+    "Ville": "Nice",
+    "dpt": 6000,
+    "lon": 7.25,
+    "lat": 43.7,
+    "code": "bggXlF"
+  },
+  {
+    "Ville": "Nieul-sur-Mer",
+    "dpt": 17137,
+    "lon": -1.16667,
+    "lat": 46.2,
+    "code": "CgoDBy"
+  },
+  {
+    "Ville": "Nieulle-sur-Seudre",
+    "dpt": 17600,
+    "lon": -0.983333,
+    "lat": 45.75,
+    "code": "ApenJm"
+  },
+  {
+    "Ville": "Nonza",
+    "dpt": 20217,
+    "lon": 9.34445,
+    "lat": 42.7848,
+    "code": "kcTedJ"
+  },
+  {
+    "Ville": "Nostang",
+    "dpt": 56690,
+    "lon": -3.18333,
+    "lat": 47.75,
+    "code": "GsxzuO"
+  },
+  {
+    "Ville": "Notre-Dame-de-Monts",
+    "dpt": 85690,
+    "lon": -2.15,
+    "lat": 46.8333,
+    "code": "HJkxvE"
+  },
+  {
+    "Ville": "Noyalo",
+    "dpt": 56450,
+    "lon": -2.68333,
+    "lat": 47.6167,
+    "code": "WchnnE"
+  },
+  {
+    "Ville": "Noyelles-sur-Mer",
+    "dpt": 80860,
+    "lon": 1.71667,
+    "lat": 50.1833,
+    "code": "UKtvOw"
+  },
+  {
+    "Ville": "Occhiatana",
+    "dpt": 20226,
+    "lon": 9.1989,
+    "lat": 42.5742,
+    "code": "Mwdybw"
+  },
+  {
+    "Ville": "Octeville-sur-Mer",
+    "dpt": 76930,
+    "lon": 0.116667,
+    "lat": 49.55,
+    "code": "hltcox"
+  },
+  {
+    "Ville": "Ogliastro",
+    "dpt": 20217,
+    "lon": 9.3364,
+    "lat": 42.8098,
+    "code": "sUURBA"
+  },
+  {
+    "Ville": "Ollioules",
+    "dpt": 83190,
+    "lon": 5.85,
+    "lat": 43.1333,
+    "code": "SUyaOl"
+  },
+  {
+    "Ville": "Olmeta-di-Capocorso",
+    "dpt": 20217,
+    "lon": 9.3714,
+    "lat": 42.7687,
+    "code": "ZWCzPX"
+  },
+  {
+    "Ville": "Olmeto",
+    "dpt": 20113,
+    "lon": 8.91834,
+    "lat": 41.7173,
+    "code": "rQjtly"
+  },
+  {
+    "Ville": "Olonne-sur-Mer",
+    "dpt": 85340,
+    "lon": -1.78333,
+    "lat": 46.5333,
+    "code": "QHdNsi"
+  },
+  {
+    "Ville": "Omonville-la-Petite",
+    "dpt": 50440,
+    "lon": -1.88333,
+    "lat": 49.7,
+    "code": "duKrmU"
+  },
+  {
+    "Ville": "Omonville-la-Rogue",
+    "dpt": 50440,
+    "lon": -1.85,
+    "lat": 49.7,
+    "code": "ozVMiX"
+  },
+  {
+    "Ville": "Ondres",
+    "dpt": 40440,
+    "lon": -1.43333,
+    "lat": 43.5667,
+    "code": "VrrLgv"
+  },
+  {
+    "Ville": "Osani",
+    "dpt": 20147,
+    "lon": 8.63223,
+    "lat": 42.3234,
+    "code": "ouTrLN"
+  },
+  {
+    "Ville": "Ota",
+    "dpt": 20150,
+    "lon": 8.74362,
+    "lat": 42.2581,
+    "code": "mJOoUd"
+  },
+  {
+    "Ville": "Ouanary",
+    "dpt": 97380,
+    "lon": 4.20913,
+    "lat": -51.6716,
+    "code": "yFwCLz"
+  },
+  {
+    "Ville": "Oudalle",
+    "dpt": 76430,
+    "lon": 0.3,
+    "lat": 49.5,
+    "code": "HvdcOR"
+  },
+  {
+    "Ville": "Ouessant",
+    "dpt": 29242,
+    "lon": -5.09555,
+    "lat": 48.4581,
+    "code": "UyjHai"
+  },
+  {
+    "Ville": "Ouistreham",
+    "dpt": 14150,
+    "lon": -0.25,
+    "lat": 49.2833,
+    "code": "xszYzz"
+  },
+  {
+    "Ville": "Oye-Plage",
+    "dpt": 62215,
+    "lon": "02.05",
+    "lat": 50.9833,
+    "code": "xaZaTI"
+  },
+  {
+    "Ville": "Paimpol",
+    "dpt": 22500,
+    "lon": -3.05,
+    "lat": 48.7667,
+    "code": "TUybbU"
+  },
+  {
+    "Ville": "Palasca",
+    "dpt": 20226,
+    "lon": 9.04279,
+    "lat": 42.5892,
+    "code": "DRgfhm"
+  },
+  {
+    "Ville": "Palavas-les-Flots",
+    "dpt": 34250,
+    "lon": 3.93333,
+    "lat": 43.5333,
+    "code": "IALfSx"
+  },
+  {
+    "Ville": "Paluel",
+    "dpt": 76450,
+    "lon": 0.633333,
+    "lat": 49.8333,
+    "code": "AFLbFX"
+  },
+  {
+    "Ville": "Parentis-en-Born",
+    "dpt": 40160,
+    "lon": -1.06667,
+    "lat": 44.35,
+    "code": "ZZAJTU"
+  },
+  {
+    "Ville": "Partinello",
+    "dpt": 20147,
+    "lon": 8.68251,
+    "lat": 42.312,
+    "code": "VugBZn"
+  },
+  {
+    "Ville": "Patrimonio",
+    "dpt": 20253,
+    "lon": 9.36195,
+    "lat": 42.6975,
+    "code": "BVIyqD"
+  },
+  {
+    "Ville": "Pendé",
+    "dpt": 80230,
+    "lon": 1.58333,
+    "lat": 50.1667,
+    "code": "AxezFB"
+  },
+  {
+    "Ville": "Pénestin",
+    "dpt": 56760,
+    "lon": -2.48333,
+    "lat": 47.4833,
+    "code": "auOuVX"
+  },
+  {
+    "Ville": "Penly",
+    "dpt": 76630,
+    "lon": 1.23333,
+    "lat": 49.9833,
+    "code": "hsvzyx"
+  },
+  {
+    "Ville": "Penmarch",
+    "dpt": 29760,
+    "lon": 3.66223,
+    "lat": 47.8123,
+    "code": "MKzhtO"
+  },
+  {
+    "Ville": "Pennedepie",
+    "dpt": 14600,
+    "lon": 0.183333,
+    "lat": 49.4167,
+    "code": "WEDtnL"
+  },
+  {
+    "Ville": "Penta-di-Casinca",
+    "dpt": 20213,
+    "lon": 9.45973,
+    "lat": 42.4675,
+    "code": "McRqfM"
+  },
+  {
+    "Ville": "Penvénan",
+    "dpt": 22710,
+    "lon": -3.36667,
+    "lat": 48.8333,
+    "code": "EAFRsE"
+  },
+  {
+    "Ville": "Pérols",
+    "dpt": 34470,
+    "lon": 3.95,
+    "lat": 43.5667,
+    "code": "kUGKhg"
+  },
+  {
+    "Ville": "Perros-Guirec",
+    "dpt": 22700,
+    "lon": -3.45,
+    "lat": 48.8167,
+    "code": "VJiQlb"
+  },
+  {
+    "Ville": "Petit-Bourg",
+    "dpt": 97170,
+    "lon": 16.1878,
+    "lat": -61.5899,
+    "code": "suOKFH"
+  },
+  {
+    "Ville": "Petit-Canal",
+    "dpt": 97131,
+    "lon": 16.3879,
+    "lat": -61.4534,
+    "code": "aAAGcQ"
+  },
+  {
+    "Ville": "Peyriac-de-Mer",
+    "dpt": 11440,
+    "lon": 2.96667,
+    "lat": 43.0833,
+    "code": "zERyhz"
+  },
+  {
+    "Ville": "Piana",
+    "dpt": 20115,
+    "lon": 8.6364,
+    "lat": 42.2392,
+    "code": "xGHesN"
+  },
+  {
+    "Ville": "Pianottoli-Caldarello",
+    "dpt": 20131,
+    "lon": 9.05612,
+    "lat": 41.4942,
+    "code": "AWvFVk"
+  },
+  {
+    "Ville": "Pietracorbara",
+    "dpt": 20233,
+    "lon": 9.42973,
+    "lat": 42.8464,
+    "code": "iHZtFS"
+  },
+  {
+    "Ville": "Pietrosella",
+    "dpt": 20166,
+    "lon": 8.84612,
+    "lat": 41.8367,
+    "code": "HeeSdP"
+  },
+  {
+    "Ville": "Pino",
+    "dpt": 20228,
+    "lon": 9.3514,
+    "lat": 42.9081,
+    "code": "ZcmcHJ"
+  },
+  {
+    "Ville": "Piriac-sur-Mer",
+    "dpt": 44420,
+    "lon": -2.55,
+    "lat": 47.3833,
+    "code": "ikFhTs"
+  },
+  {
+    "Ville": "Pirou",
+    "dpt": 50770,
+    "lon": -1.58333,
+    "lat": 49.1833,
+    "code": "JZujSh"
+  },
+  {
+    "Ville": "Planguenoual",
+    "dpt": 22400,
+    "lon": -2.58333,
+    "lat": 48.5333,
+    "code": "NzLvRl"
+  },
+  {
+    "Ville": "Pléboulle",
+    "dpt": 22550,
+    "lon": -2.33333,
+    "lat": 48.6167,
+    "code": "ryIcaS"
+  },
+  {
+    "Ville": "Pléneuf-Val-André",
+    "dpt": 22370,
+    "lon": -2.55,
+    "lat": 48.6,
+    "code": "rKTlEk"
+  },
+  {
+    "Ville": "Plérin",
+    "dpt": 22190,
+    "lon": -2.78333,
+    "lat": 48.5333,
+    "code": "bElbjV"
+  },
+  {
+    "Ville": "Plestin-les-Grèves",
+    "dpt": 22310,
+    "lon": -3.63333,
+    "lat": 48.65,
+    "code": "lBgVyy"
+  },
+  {
+    "Ville": "Pleubian",
+    "dpt": 22610,
+    "lon": -3.13333,
+    "lat": 48.85,
+    "code": "oLyVDZ"
+  },
+  {
+    "Ville": "Pleudaniel",
+    "dpt": 22740,
+    "lon": -3.13333,
+    "lat": 48.7667,
+    "code": "jpFIMJ"
+  },
+  {
+    "Ville": "Pleudihen-sur-Rance",
+    "dpt": 22690,
+    "lon": 0.0480566,
+    "lat": 48.5109,
+    "code": "ScVaFz"
+  },
+  {
+    "Ville": "Pleumeur-Bodou",
+    "dpt": 22560,
+    "lon": -3.51667,
+    "lat": 48.7667,
+    "code": "GstPmB"
+  },
+  {
+    "Ville": "Pleurtuit",
+    "dpt": 35730,
+    "lon": -2.06667,
+    "lat": 48.5833,
+    "code": "tzQoXv"
+  },
+  {
+    "Ville": "Plévenon",
+    "dpt": 22240,
+    "lon": -2.33333,
+    "lat": 48.6667,
+    "code": "RrUGFB"
+  },
+  {
+    "Ville": "Plobannalec-Lesconil",
+    "dpt": 29740,
+    "lon": -4.21667,
+    "lat": 47.8167,
+    "code": "kdSddn"
+  },
+  {
+    "Ville": "Ploemeur",
+    "dpt": 56270,
+    "lon": -3.43333,
+    "lat": 47.7333,
+    "code": "zqMfGi"
+  },
+  {
+    "Ville": "Ploéven",
+    "dpt": 29550,
+    "lon": -4.23333,
+    "lat": 48.15,
+    "code": "xriGoz"
+  },
+  {
+    "Ville": "Plogoff",
+    "dpt": 29770,
+    "lon": -4.66667,
+    "lat": 48.0333,
+    "code": "geGKAn"
+  },
+  {
+    "Ville": "Plomeur",
+    "dpt": 29120,
+    "lon": -4.28333,
+    "lat": 47.8333,
+    "code": "lppzAw"
+  },
+  {
+    "Ville": "Plomodiern",
+    "dpt": 29550,
+    "lon": -4.23333,
+    "lat": 48.1833,
+    "code": "xTbUft"
+  },
+  {
+    "Ville": "Plonévez-Porzay",
+    "dpt": 29550,
+    "lon": -4.21667,
+    "lat": 48.1,
+    "code": "BFkfZv"
+  },
+  {
+    "Ville": "Plouarzel",
+    "dpt": 29810,
+    "lon": -4.73333,
+    "lat": 48.4333,
+    "code": "tBqFoi"
+  },
+  {
+    "Ville": "Ploubalay",
+    "dpt": 22770,
+    "lon": -2.15,
+    "lat": 48.5833,
+    "code": "HMPmPE"
+  },
+  {
+    "Ville": "Ploubazlanec",
+    "dpt": 22620,
+    "lon": -3.03333,
+    "lat": 48.8,
+    "code": "ougEWB"
+  },
+  {
+    "Ville": "Ploudalmézeau",
+    "dpt": 29830,
+    "lon": -4.65,
+    "lat": 48.5333,
+    "code": "lCrDpK"
+  },
+  {
+    "Ville": "Plouénan",
+    "dpt": 29420,
+    "lon": -4,
+    "lat": 48.6333,
+    "code": "bAuTrg"
+  },
+  {
+    "Ville": "Plouër-sur-Rance",
+    "dpt": 22490,
+    "lon": -2,
+    "lat": 48.5333,
+    "code": "IniSep"
+  },
+  {
+    "Ville": "Plouescat",
+    "dpt": 29430,
+    "lon": -4.16667,
+    "lat": 48.6667,
+    "code": "zgmNwt"
+  },
+  {
+    "Ville": "Plouézec",
+    "dpt": 22470,
+    "lon": -2.98333,
+    "lat": 48.75,
+    "code": "XjuVsU"
+  },
+  {
+    "Ville": "Plouezoc'h",
+    "dpt": 29252,
+    "lon": 2.17778,
+    "lat": 48.64,
+    "code": "amJhUB"
+  },
+  {
+    "Ville": "Plougasnou",
+    "dpt": 29630,
+    "lon": -3.8,
+    "lat": 48.7,
+    "code": "OWnxNF"
+  },
+  {
+    "Ville": "Plougastel-Daoulas",
+    "dpt": 29470,
+    "lon": -4.36667,
+    "lat": 48.3667,
+    "code": "TYWpXC"
+  },
+  {
+    "Ville": "Plougonvelin",
+    "dpt": 29217,
+    "lon": -4.71667,
+    "lat": 48.35,
+    "code": "ajICrM"
+  },
+  {
+    "Ville": "Plougoulm",
+    "dpt": 29250,
+    "lon": -4.05,
+    "lat": 48.6667,
+    "code": "RnCfPf"
+  },
+  {
+    "Ville": "Plougoumelen",
+    "dpt": 56400,
+    "lon": -2.93333,
+    "lat": 47.65,
+    "code": "POGhBh"
+  },
+  {
+    "Ville": "Plougrescant",
+    "dpt": 22820,
+    "lon": -3.23333,
+    "lat": 48.85,
+    "code": "SCQQCr"
+  },
+  {
+    "Ville": "Plouguerneau",
+    "dpt": 29880,
+    "lon": -4.5,
+    "lat": 48.6,
+    "code": "czyqkM"
+  },
+  {
+    "Ville": "Plouguiel",
+    "dpt": 22220,
+    "lon": -3.23333,
+    "lat": 48.8,
+    "code": "aqUxVT"
+  },
+  {
+    "Ville": "Plouguin",
+    "dpt": 29830,
+    "lon": -4.6,
+    "lat": 48.5333,
+    "code": "ZuUIIp"
+  },
+  {
+    "Ville": "Plouha",
+    "dpt": 22580,
+    "lon": -2.93333,
+    "lat": 48.6833,
+    "code": "ndwuMV"
+  },
+  {
+    "Ville": "Plouharnel",
+    "dpt": 56340,
+    "lon": -3.11667,
+    "lat": 47.6,
+    "code": "xhImyc"
+  },
+  {
+    "Ville": "Plouhinec",
+    "dpt": 29780,
+    "lon": 3.51389,
+    "lat": 48.015,
+    "code": "XVYNYg"
+  },
+  {
+    "Ville": "Plouhinec",
+    "dpt": 56680,
+    "lon": 2.74889,
+    "lat": 47.6975,
+    "code": "IxcPOK"
+  },
+  {
+    "Ville": "Plouider",
+    "dpt": 29260,
+    "lon": -4.3,
+    "lat": 48.6167,
+    "code": "UGZUzF"
+  },
+  {
+    "Ville": "Ploulec'h",
+    "dpt": 22300,
+    "lon": 2.49556,
+    "lat": 48.7181,
+    "code": "RTKZjO"
+  },
+  {
+    "Ville": "Ploumilliau",
+    "dpt": 22300,
+    "lon": -3.51667,
+    "lat": 48.6833,
+    "code": "jamieb"
+  },
+  {
+    "Ville": "Ploumoguer",
+    "dpt": 29810,
+    "lon": -4.71667,
+    "lat": 48.4,
+    "code": "NOqzMb"
+  },
+  {
+    "Ville": "Plounéour-Trez",
+    "dpt": 29890,
+    "lon": -4.31667,
+    "lat": 48.65,
+    "code": "OXJBHp"
+  },
+  {
+    "Ville": "Plounévez-Lochrist",
+    "dpt": 29430,
+    "lon": -4.21667,
+    "lat": 48.6167,
+    "code": "ZGWUJI"
+  },
+  {
+    "Ville": "Plourivo",
+    "dpt": 22860,
+    "lon": -3.06667,
+    "lat": 48.75,
+    "code": "evUAxx"
+  },
+  {
+    "Ville": "Plouvien",
+    "dpt": 29860,
+    "lon": -4.45,
+    "lat": 48.5333,
+    "code": "ipWJRe"
+  },
+  {
+    "Ville": "Plouzané",
+    "dpt": 29280,
+    "lon": -4.61667,
+    "lat": 48.3833,
+    "code": "HlYEVB"
+  },
+  {
+    "Ville": "Plovan",
+    "dpt": 29720,
+    "lon": -4.36667,
+    "lat": 47.9167,
+    "code": "SNhnoy"
+  },
+  {
+    "Ville": "Plozévet",
+    "dpt": 29710,
+    "lon": -4.41667,
+    "lat": 47.9833,
+    "code": "rXlvVp"
+  },
+  {
+    "Ville": "Pluneret",
+    "dpt": 56400,
+    "lon": -2.96667,
+    "lat": 47.6833,
+    "code": "miOcWQ"
+  },
+  {
+    "Ville": "Plurien",
+    "dpt": 22240,
+    "lon": -2.4,
+    "lat": 48.6333,
+    "code": "KhUkJb"
+  },
+  {
+    "Ville": "Poggio-Mezzana",
+    "dpt": 20230,
+    "lon": 9.49501,
+    "lat": 42.3981,
+    "code": "KhcCOj"
+  },
+  {
+    "Ville": "Pointe-à-Pitre",
+    "dpt": 97110,
+    "lon": 16.2409,
+    "lat": -61.5353,
+    "code": "jFRgNB"
+  },
+  {
+    "Ville": "Pointe-Noire",
+    "dpt": 97116,
+    "lon": 16.2317,
+    "lat": -61.7893,
+    "code": "qFxnfz"
+  },
+  {
+    "Ville": "Pont-Aven",
+    "dpt": 29930,
+    "lon": -3.75,
+    "lat": 47.85,
+    "code": "SOryTr"
+  },
+  {
+    "Ville": "Pont-Croix",
+    "dpt": 29790,
+    "lon": -4.05,
+    "lat": 48.5,
+    "code": "IAxUdL"
+  },
+  {
+    "Ville": "Pont-l'Abbé",
+    "dpt": 29120,
+    "lon": -4.21667,
+    "lat": 47.8667,
+    "code": "KwruLv"
+  },
+  {
+    "Ville": "Pontaubault",
+    "dpt": 50220,
+    "lon": -1.35,
+    "lat": 48.6333,
+    "code": "evCTCo"
+  },
+  {
+    "Ville": "Ponthoile",
+    "dpt": 80860,
+    "lon": 1.71667,
+    "lat": 50.2167,
+    "code": "SskONj"
+  },
+  {
+    "Ville": "Pontorson",
+    "dpt": 50170,
+    "lon": -1.51667,
+    "lat": 48.55,
+    "code": "CgexxN"
+  },
+  {
+    "Ville": "Pordic",
+    "dpt": 22590,
+    "lon": -2.81667,
+    "lat": 48.5833,
+    "code": "cZCMAE"
+  },
+  {
+    "Ville": "Pornic",
+    "dpt": 44210,
+    "lon": -2.1,
+    "lat": 47.1167,
+    "code": "ZjVAmY"
+  },
+  {
+    "Ville": "Pornichet",
+    "dpt": 44380,
+    "lon": -2.35,
+    "lat": 47.25,
+    "code": "GnIzLX"
+  },
+  {
+    "Ville": "Porspoder",
+    "dpt": 29840,
+    "lon": -4.76667,
+    "lat": 48.5,
+    "code": "YRYVqu"
+  },
+  {
+    "Ville": "Port-de-Bouc",
+    "dpt": 13110,
+    "lon": 4.98333,
+    "lat": 43.4,
+    "code": "fJIlkQ"
+  },
+  {
+    "Ville": "Port-des-Barques",
+    "dpt": 17730,
+    "lon": 0.92139,
+    "lat": 45.9475,
+    "code": "HNitRd"
+  },
+  {
+    "Ville": "Port-en-Bessin-Huppain",
+    "dpt": 14520,
+    "lon": -0.75,
+    "lat": 49.35,
+    "code": "AySHBO"
+  },
+  {
+    "Ville": "Port-la-Nouvelle",
+    "dpt": 11210,
+    "lon": "03.05",
+    "lat": 43.0167,
+    "code": "XoiMfP"
+  },
+  {
+    "Ville": "Port-Louis",
+    "dpt": 56290,
+    "lon": -3.35,
+    "lat": 47.7167,
+    "code": "eQjODF"
+  },
+  {
+    "Ville": "Port-Louis",
+    "dpt": 97117,
+    "lon": 16.4272,
+    "lat": -61.5106,
+    "code": "RoKIrX"
+  },
+  {
+    "Ville": "Port-Saint-Louis-du-Rhône",
+    "dpt": 13230,
+    "lon": 4.8,
+    "lat": 43.3833,
+    "code": "YBWGwS"
+  },
+  {
+    "Ville": "Port-Vendres",
+    "dpt": 66660,
+    "lon": 3.11667,
+    "lat": 42.5167,
+    "code": "ZHyVgz"
+  },
+  {
+    "Ville": "Portbail",
+    "dpt": 50580,
+    "lon": -1.7,
+    "lat": 49.3333,
+    "code": "nXSdBc"
+  },
+  {
+    "Ville": "Portiragnes",
+    "dpt": 34420,
+    "lon": 3.33333,
+    "lat": 43.3,
+    "code": "vXMWdX"
+  },
+  {
+    "Ville": "Porto-Vecchio",
+    "dpt": 20137,
+    "lon": 9.27973,
+    "lat": 41.5909,
+    "code": "kTxSQU"
+  },
+  {
+    "Ville": "Pouldreuzic",
+    "dpt": 29710,
+    "lon": -4.36667,
+    "lat": 47.95,
+    "code": "rJxdCU"
+  },
+  {
+    "Ville": "Poullan-sur-Mer",
+    "dpt": 29100,
+    "lon": -4.41667,
+    "lat": 48.0833,
+    "code": "acOgvQ"
+  },
+  {
+    "Ville": "Poussan",
+    "dpt": 34560,
+    "lon": 3.66667,
+    "lat": 43.4833,
+    "code": "jQEVhJ"
+  },
+  {
+    "Ville": "Préfailles",
+    "dpt": 44770,
+    "lon": -2.21667,
+    "lat": 47.1333,
+    "code": "yIlUKs"
+  },
+  {
+    "Ville": "Primelin",
+    "dpt": 29770,
+    "lon": -4.61667,
+    "lat": 48.0167,
+    "code": "ENEOTw"
+  },
+  {
+    "Ville": "Propriano",
+    "dpt": 20110,
+    "lon": 8.90417,
+    "lat": 41.675,
+    "code": "HHmoJh"
+  },
+  {
+    "Ville": "Prunelli-di-Fiumorbo",
+    "dpt": 20243,
+    "lon": 9.32473,
+    "lat": 42.0106,
+    "code": "mkuTSb"
+  },
+  {
+    "Ville": "Puyravault",
+    "dpt": 17700,
+    "lon": -0.8,
+    "lat": 46.1333,
+    "code": "IkWydO"
+  },
+  {
+    "Ville": "Puyravault",
+    "dpt": 85450,
+    "lon": -1.08333,
+    "lat": 46.3667,
+    "code": "NAJHRb"
+  },
+  {
+    "Ville": "Quend",
+    "dpt": 80120,
+    "lon": 1.63333,
+    "lat": 50.3167,
+    "code": "SVnqAv"
+  },
+  {
+    "Ville": "Querqueville",
+    "dpt": 50460,
+    "lon": -1.7,
+    "lat": 49.6667,
+    "code": "eYgXXc"
+  },
+  {
+    "Ville": "Quettehou",
+    "dpt": 50630,
+    "lon": -1.3,
+    "lat": 49.6,
+    "code": "ODniJb"
+  },
+  {
+    "Ville": "Quéven",
+    "dpt": 56530,
+    "lon": -3.41667,
+    "lat": 47.7833,
+    "code": "vSovEx"
+  },
+  {
+    "Ville": "Quiberon",
+    "dpt": 56170,
+    "lon": -3.11667,
+    "lat": 47.4833,
+    "code": "Dapjfp"
+  },
+  {
+    "Ville": "Quiberville",
+    "dpt": 76860,
+    "lon": 0.916667,
+    "lat": 49.9,
+    "code": "cVGvOR"
+  },
+  {
+    "Ville": "Quinéville",
+    "dpt": 50310,
+    "lon": -1.3,
+    "lat": 49.5167,
+    "code": "lNPqYW"
+  },
+  {
+    "Ville": "Ramatuelle",
+    "dpt": 83350,
+    "lon": 6.61667,
+    "lat": 43.2167,
+    "code": "YLfdqa"
+  },
+  {
+    "Ville": "Ranville",
+    "dpt": 14860,
+    "lon": -0.25,
+    "lat": 49.2333,
+    "code": "qABpLa"
+  },
+  {
+    "Ville": "Ravenoville",
+    "dpt": 50480,
+    "lon": -1.26667,
+    "lat": 49.4667,
+    "code": "HIriIi"
+  },
+  {
+    "Ville": "Rayol-Canadel-sur-Mer",
+    "dpt": 83820,
+    "lon": 6.46167,
+    "lat": 43.1587,
+    "code": "OsvwVf"
+  },
+  {
+    "Ville": "Régina",
+    "dpt": 97390,
+    "lon": 4.31125,
+    "lat": -52.1328,
+    "code": "HymaSP"
+  },
+  {
+    "Ville": "Regnéville-sur-Mer",
+    "dpt": 50590,
+    "lon": -1.55,
+    "lat": 49.0167,
+    "code": "KMEoLR"
+  },
+  {
+    "Ville": "Remire-Montjoly",
+    "dpt": 97354,
+    "lon": 4.91396,
+    "lat": -52.2738,
+    "code": "RFqYEP"
+  },
+  {
+    "Ville": "Réthoville",
+    "dpt": 50330,
+    "lon": -1.35,
+    "lat": 49.7,
+    "code": "NIDMvF"
+  },
+  {
+    "Ville": "Réville",
+    "dpt": 50760,
+    "lon": -1.25,
+    "lat": 49.6167,
+    "code": "AcyuYC"
+  },
+  {
+    "Ville": "Riantec",
+    "dpt": 56670,
+    "lon": -3.31667,
+    "lat": 47.7167,
+    "code": "FoCALU"
+  },
+  {
+    "Ville": "Riec-sur-Belon",
+    "dpt": 29340,
+    "lon": -3.7,
+    "lat": 47.8333,
+    "code": "AgeFKr"
+  },
+  {
+    "Ville": "Rivedoux-Plage",
+    "dpt": 17940,
+    "lon": -1.26667,
+    "lat": 46.1667,
+    "code": "zeQzrk"
+  },
+  {
+    "Ville": "Rivière-Pilote",
+    "dpt": 97211,
+    "lon": 14.4867,
+    "lat": -60.9018,
+    "code": "mXWRKn"
+  },
+  {
+    "Ville": "Rivière-Salée",
+    "dpt": 97215,
+    "lon": 14.5269,
+    "lat": -60.9773,
+    "code": "KYyxwu"
+  },
+  {
+    "Ville": "Rogerville",
+    "dpt": 76700,
+    "lon": 0.266667,
+    "lat": 49.5,
+    "code": "caMxrQ"
+  },
+  {
+    "Ville": "Rogliano",
+    "dpt": 20247,
+    "lon": 9.41834,
+    "lat": 42.9562,
+    "code": "oxADYp"
+  },
+  {
+    "Ville": "Rognac",
+    "dpt": 13340,
+    "lon": 5.23333,
+    "lat": 43.4833,
+    "code": "ilyjxN"
+  },
+  {
+    "Ville": "Roquebrune-Cap-Martin",
+    "dpt": 6190,
+    "lon": 7.46667,
+    "lat": 43.7667,
+    "code": "AvuwkB"
+  },
+  {
+    "Ville": "Roquebrune-sur-Argens",
+    "dpt": 83520,
+    "lon": 6.63333,
+    "lat": 43.4333,
+    "code": "gFLsJn"
+  },
+  {
+    "Ville": "Roscanvel",
+    "dpt": 29570,
+    "lon": -4.55,
+    "lat": 48.3167,
+    "code": "mDcacb"
+  },
+  {
+    "Ville": "Roscoff",
+    "dpt": 29680,
+    "lon": -3.98333,
+    "lat": 48.7333,
+    "code": "dtlosq"
+  },
+  {
+    "Ville": "Rosnoën",
+    "dpt": 29590,
+    "lon": -4.2,
+    "lat": 48.2667,
+    "code": "sKFMlV"
+  },
+  {
+    "Ville": "Roura",
+    "dpt": 97352,
+    "lon": 4.57227,
+    "lat": -52.4662,
+    "code": "XJpxCw"
+  },
+  {
+    "Ville": "Royan",
+    "dpt": 17200,
+    "lon": -1.03333,
+    "lat": 45.6333,
+    "code": "jsQzVd"
+  },
+  {
+    "Ville": "Roz-sur-Couesnon",
+    "dpt": 35610,
+    "lon": -1.6,
+    "lat": 48.5833,
+    "code": "IyDTuO"
+  },
+  {
+    "Ville": "Saint-André",
+    "dpt": 31420,
+    "lon": 0.852222,
+    "lat": 43.2734,
+    "code": "pRCsQw"
+  },
+  {
+    "Ville": "Saint-André",
+    "dpt": 32200,
+    "lon": 0.856389,
+    "lat": 43.5625,
+    "code": "WcmKip"
+  },
+  {
+    "Ville": "Saint-André",
+    "dpt": 66690,
+    "lon": 2.96667,
+    "lat": 42.55,
+    "code": "aHgznz"
+  },
+  {
+    "Ville": "Saint-André",
+    "dpt": 73500,
+    "lon": 6.61667,
+    "lat": 45.2,
+    "code": "AwpSyC"
+  },
+  {
+    "Ville": "Saint-André",
+    "dpt": 81250,
+    "lon": 2.46,
+    "lat": 43.9331,
+    "code": "bYmPux"
+  },
+  {
+    "Ville": "Saint-André",
+    "dpt": 97440,
+    "lon": -20.9599,
+    "lat": 55.6539,
+    "code": "JMwEJp"
+  },
+  {
+    "Ville": "Saint-Armel",
+    "dpt": 35230,
+    "lon": -1.58333,
+    "lat": 48.0167,
+    "code": "dpwvHl"
+  },
+  {
+    "Ville": "Saint-Armel",
+    "dpt": 56450,
+    "lon": -2.71667,
+    "lat": 47.5667,
+    "code": "ZClRhU"
+  },
+  {
+    "Ville": "Saint-Aubin-sur-Mer",
+    "dpt": 14750,
+    "lon": -0.4,
+    "lat": 49.3333,
+    "code": "IADjzj"
+  },
+  {
+    "Ville": "Saint-Aubin-sur-Mer",
+    "dpt": 76740,
+    "lon": 0.883333,
+    "lat": 49.8833,
+    "code": "gdzpnz"
+  },
+  {
+    "Ville": "Saint-Benoît",
+    "dpt": 1300,
+    "lon": 5.58333,
+    "lat": 45.7,
+    "code": "YUghal"
+  },
+  {
+    "Ville": "Saint-Benoît",
+    "dpt": 4240,
+    "lon": 6.73333,
+    "lat": 43.9667,
+    "code": "nBJWWx"
+  },
+  {
+    "Ville": "Saint-Benoît",
+    "dpt": 11230,
+    "lon": 2.06667,
+    "lat": 43.0167,
+    "code": "QLaEaN"
+  },
+  {
+    "Ville": "Saint-Benoît",
+    "dpt": 86280,
+    "lon": 0.333333,
+    "lat": 46.55,
+    "code": "yRxAqE"
+  },
+  {
+    "Ville": "Saint-Benoît",
+    "dpt": 97470,
+    "lon": -21.0396,
+    "lat": 55.6972,
+    "code": "NPNghr"
+  },
+  {
+    "Ville": "Saint-Benoît-des-Ondes",
+    "dpt": 35114,
+    "lon": -1.85,
+    "lat": 48.6167,
+    "code": "eUKXqm"
+  },
+  {
+    "Ville": "Saint-Brevin-les-Pins",
+    "dpt": 44250,
+    "lon": -2.16667,
+    "lat": 47.25,
+    "code": "bokcmp"
+  },
+  {
+    "Ville": "Saint-Briac-sur-Mer",
+    "dpt": 35800,
+    "lon": -2.13333,
+    "lat": 48.6333,
+    "code": "VXSMNX"
+  },
+  {
+    "Ville": "Saint-Brieuc",
+    "dpt": 22000,
+    "lon": -2.78333,
+    "lat": 48.5167,
+    "code": "XwuEJd"
+  },
+  {
+    "Ville": "Saint-Broladre",
+    "dpt": 35120,
+    "lon": -1.65,
+    "lat": 48.5833,
+    "code": "QiOXpl"
+  },
+  {
+    "Ville": "Saint-Cast-le-Guildo",
+    "dpt": 22380,
+    "lon": -2.26667,
+    "lat": 48.6333,
+    "code": "UEJKYm"
+  },
+  {
+    "Ville": "Saint-Chamas",
+    "dpt": 13250,
+    "lon": 5.03333,
+    "lat": 43.55,
+    "code": "NCJrhU"
+  },
+  {
+    "Ville": "Saint-Clément-des-Baleines",
+    "dpt": 17590,
+    "lon": -1.54167,
+    "lat": 46.225,
+    "code": "GjMSbq"
+  },
+  {
+    "Ville": "Saint-Côme-de-Fresné",
+    "dpt": 14960,
+    "lon": -0.6,
+    "lat": 49.3333,
+    "code": "yGDrqZ"
+  },
+  {
+    "Ville": "Saint-Coulomb",
+    "dpt": 35350,
+    "lon": -1.9,
+    "lat": 48.6833,
+    "code": "YkabiZ"
+  },
+  {
+    "Ville": "Saint-Cyprien",
+    "dpt": 19130,
+    "lon": 1.35,
+    "lat": 45.25,
+    "code": "MUgoAn"
+  },
+  {
+    "Ville": "Saint-Cyprien",
+    "dpt": 24220,
+    "lon": 1.03333,
+    "lat": 44.8667,
+    "code": "YtIaUZ"
+  },
+  {
+    "Ville": "Saint-Cyprien",
+    "dpt": 42160,
+    "lon": 4.23333,
+    "lat": 45.5333,
+    "code": "FZqJXV"
+  },
+  {
+    "Ville": "Saint-Cyprien",
+    "dpt": 46800,
+    "lon": 1.25,
+    "lat": 44.3167,
+    "code": "jLoTuO"
+  },
+  {
+    "Ville": "Saint-Cyprien",
+    "dpt": 66750,
+    "lon": 3,
+    "lat": 42.6167,
+    "code": "bDzNNL"
+  },
+  {
+    "Ville": "Saint-Cyr-sur-Mer",
+    "dpt": 83270,
+    "lon": 5.71667,
+    "lat": 43.1833,
+    "code": "qmXeME"
+  },
+  {
+    "Ville": "Saint-Denis",
+    "dpt": 11310,
+    "lon": 2.21667,
+    "lat": 43.3667,
+    "code": "UBqUWm"
+  },
+  {
+    "Ville": "Saint-Denis",
+    "dpt": 30500,
+    "lon": 4.25,
+    "lat": 44.25,
+    "code": "JXHtIO"
+  },
+  {
+    "Ville": "Saint-Denis",
+    "dpt": 89100,
+    "lon": 3.26667,
+    "lat": 48.2333,
+    "code": "hfXayf"
+  },
+  {
+    "Ville": "Saint-Denis",
+    "dpt": 93200,
+    "lon": 2.35833,
+    "lat": 48.9333,
+    "code": "QkiSuG"
+  },
+  {
+    "Ville": "Saint-Denis",
+    "dpt": 97490,
+    "lon": 46.7107,
+    "lat": 1.71819,
+    "code": "sUyAhv"
+  },
+  {
+    "Ville": "Saint-Denis-d'Oléron",
+    "dpt": 17650,
+    "lon": -1.38333,
+    "lat": 46.0333,
+    "code": "JEtpaP"
+  },
+  {
+    "Ville": "Saint-Florent",
+    "dpt": 45600,
+    "lon": 2.47667,
+    "lat": 47.6906,
+    "code": "eyliHr"
+  },
+  {
+    "Ville": "Saint-Florent",
+    "dpt": 20217,
+    "lon": 9.30251,
+    "lat": 42.6809,
+    "code": "MnDPEd"
+  },
+  {
+    "Ville": "Saint-François",
+    "dpt": 97118,
+    "lon": 16.251,
+    "lat": -61.2728,
+    "code": "yBrKWh"
+  },
+  {
+    "Ville": "Saint-Froult",
+    "dpt": 17780,
+    "lon": -1.05,
+    "lat": 45.9167,
+    "code": "KJAnKD"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 15100,
+    "lon": 3.12792,
+    "lat": 45.0196,
+    "code": "EFbKOZ"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 16700,
+    "lon": 0.266667,
+    "lat": 45.9667,
+    "code": "sQwcYf"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 32430,
+    "lon": 0.935833,
+    "lat": 43.7278,
+    "code": "EKGiLe"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 47370,
+    "lon": 0.933889,
+    "lat": 44.442,
+    "code": "IoVksg"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 57830,
+    "lon": 6.93333,
+    "lat": 48.6667,
+    "code": "XQFexG"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 62770,
+    "lon": 2.08333,
+    "lat": 50.35,
+    "code": "UGbGNs"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 82240,
+    "lon": 1.64167,
+    "lat": 44.225,
+    "code": "mOZdtu"
+  },
+  {
+    "Ville": "Saint-Georges",
+    "dpt": 97313,
+    "lon": 3.88819,
+    "lat": -51.802,
+    "code": "TpTrKh"
+  },
+  {
+    "Ville": "Saint-Georges-d'Oléron",
+    "dpt": 17190,
+    "lon": -1.33333,
+    "lat": 45.9833,
+    "code": "OBJrxY"
+  },
+  {
+    "Ville": "Saint-Georges-de-Didonne",
+    "dpt": 17110,
+    "lon": -1,
+    "lat": 45.6,
+    "code": "UQtZzl"
+  },
+  {
+    "Ville": "Saint-Georges-de-la-Rivière",
+    "dpt": 50270,
+    "lon": 0.270834,
+    "lat": 49.3642,
+    "code": "jYuMnj"
+  },
+  {
+    "Ville": "Saint-Germain-de-Varreville",
+    "dpt": 50480,
+    "lon": -1.25,
+    "lat": 49.4333,
+    "code": "RXpKql"
+  },
+  {
+    "Ville": "Saint-Germain-des-Vaux",
+    "dpt": 50440,
+    "lon": -1.92054,
+    "lat": 49.7127,
+    "code": "LcoeUN"
+  },
+  {
+    "Ville": "Saint-Germain-sur-Ay",
+    "dpt": 50430,
+    "lon": -1.6,
+    "lat": 49.2333,
+    "code": "WXXngl"
+  },
+  {
+    "Ville": "Saint-Gildas-de-Rhuys",
+    "dpt": 56730,
+    "lon": -2.83333,
+    "lat": 47.5,
+    "code": "tKIajA"
+  },
+  {
+    "Ville": "Saint-Gilles-Croix-de-Vie",
+    "dpt": 85800,
+    "lon": -1.93944,
+    "lat": 46.6983,
+    "code": "YGComj"
+  },
+  {
+    "Ville": "Saint-Hilaire-de-Riez",
+    "dpt": 85270,
+    "lon": -1.95,
+    "lat": 46.7167,
+    "code": "BkTLwe"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 12140,
+    "lon": 2.59167,
+    "lat": 44.7083,
+    "code": "dOSzkR"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 15400,
+    "lon": 2.70445,
+    "lat": 45.2242,
+    "code": "LgOhNH"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 17430,
+    "lon": -0.883333,
+    "lat": 45.9167,
+    "code": "pITUXV"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 25190,
+    "lon": 6.81667,
+    "lat": 47.3167,
+    "code": "raaEAU"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 33330,
+    "lon": -0.1,
+    "lat": 44.8833,
+    "code": "EduCRj"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 37600,
+    "lon": 1.1,
+    "lat": 47.05,
+    "code": "ZsLouM"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 66510,
+    "lon": 2.96667,
+    "lat": 42.7833,
+    "code": "QSyDEl"
+  },
+  {
+    "Ville": "Saint-Hippolyte",
+    "dpt": 68590,
+    "lon": 7.36667,
+    "lat": 48.2333,
+    "code": "MQQLnz"
+  },
+  {
+    "Ville": "Saint-Jacut-de-la-Mer",
+    "dpt": 22750,
+    "lon": -2.18333,
+    "lat": 48.6,
+    "code": "vxcMOX"
+  },
+  {
+    "Ville": "Saint-Jean-Cap-Ferrat",
+    "dpt": 6230,
+    "lon": 7.33333,
+    "lat": 43.6833,
+    "code": "wrRwia"
+  },
+  {
+    "Ville": "Saint-Jean-de-la-Rivière",
+    "dpt": 50270,
+    "lon": -1.7,
+    "lat": 49.3667,
+    "code": "CpjmDW"
+  },
+  {
+    "Ville": "Saint-Jean-de-Luz",
+    "dpt": 64500,
+    "lon": -1.66667,
+    "lat": 43.3833,
+    "code": "DygZZf"
+  },
+  {
+    "Ville": "Saint-Jean-de-Monts",
+    "dpt": 85160,
+    "lon": -2.06667,
+    "lat": 46.7833,
+    "code": "EoTiiW"
+  },
+  {
+    "Ville": "Saint-Jean-du-Doigt",
+    "dpt": 29630,
+    "lon": -3.76667,
+    "lat": 48.7,
+    "code": "UIaOoC"
+  },
+  {
+    "Ville": "Saint-Jean-le-Thomas",
+    "dpt": 50530,
+    "lon": -1.51667,
+    "lat": 48.7333,
+    "code": "oOCukR"
+  },
+  {
+    "Ville": "Saint-Jean-Trolimon",
+    "dpt": 29120,
+    "lon": -4.28333,
+    "lat": 47.8667,
+    "code": "VVQrJv"
+  },
+  {
+    "Ville": "Saint-Joseph",
+    "dpt": 42800,
+    "lon": 4.61667,
+    "lat": 45.55,
+    "code": "MdQLQd"
+  },
+  {
+    "Ville": "Saint-Joseph",
+    "dpt": 50700,
+    "lon": -1.53333,
+    "lat": 49.5333,
+    "code": "rzHTxa"
+  },
+  {
+    "Ville": "Saint-Joseph",
+    "dpt": 97212,
+    "lon": 0,
+    "lat": 0,
+    "code": "amBoTN"
+  },
+  {
+    "Ville": "Saint-Josse",
+    "dpt": 62170,
+    "lon": 1.66667,
+    "lat": 50.4667,
+    "code": "UiEodZ"
+  },
+  {
+    "Ville": "Saint-Jouan-des-Guérets",
+    "dpt": 35430,
+    "lon": -1.96667,
+    "lat": 48.6,
+    "code": "CTCmeR"
+  },
+  {
+    "Ville": "Saint-Jouin-Bruneval",
+    "dpt": 76280,
+    "lon": 0.166667,
+    "lat": 49.65,
+    "code": "nDDddX"
+  },
+  {
+    "Ville": "Saint-Julien-en-Born",
+    "dpt": 40170,
+    "lon": -1.23333,
+    "lat": 44.0667,
+    "code": "CLxHfD"
+  },
+  {
+    "Ville": "Saint-Just-Luzac",
+    "dpt": 17320,
+    "lon": 0.962223,
+    "lat": 45.8017,
+    "code": "AJaDRj"
+  },
+  {
+    "Ville": "Saint-Laurent-d'Aigouze",
+    "dpt": 30220,
+    "lon": 4.2,
+    "lat": 43.6333,
+    "code": "zLxzzD"
+  },
+  {
+    "Ville": "Saint-Laurent-de-la-Salanque",
+    "dpt": 66250,
+    "lon": 2.98333,
+    "lat": 42.7667,
+    "code": "tlEIpA"
+  },
+  {
+    "Ville": "Saint-Laurent-du-Var",
+    "dpt": 6700,
+    "lon": 7.18333,
+    "lat": 43.6667,
+    "code": "jrhMPf"
+  },
+  {
+    "Ville": "Saint-Laurent-sur-Mer",
+    "dpt": 14710,
+    "lon": -0.883333,
+    "lat": 49.3667,
+    "code": "OlifXD"
+  },
+  {
+    "Ville": "Saint-Léonard",
+    "dpt": 32380,
+    "lon": 0.766667,
+    "lat": 43.85,
+    "code": "ZocpsQ"
+  },
+  {
+    "Ville": "Saint-Léonard",
+    "dpt": 51500,
+    "lon": 4.1,
+    "lat": 49.2167,
+    "code": "dklsBq"
+  },
+  {
+    "Ville": "Saint-Léonard",
+    "dpt": 62360,
+    "lon": 1.61667,
+    "lat": 50.6833,
+    "code": "ZQZeth"
+  },
+  {
+    "Ville": "Saint-Léonard",
+    "dpt": 76400,
+    "lon": 0.366667,
+    "lat": 49.75,
+    "code": "PlxYOr"
+  },
+  {
+    "Ville": "Saint-Léonard",
+    "dpt": 88650,
+    "lon": 6.95,
+    "lat": 48.2167,
+    "code": "XMGnhS"
+  },
+  {
+    "Ville": "Saint-Lô-d'Ourville",
+    "dpt": 50580,
+    "lon": -1.66667,
+    "lat": 49.3333,
+    "code": "pqdkBj"
+  },
+  {
+    "Ville": "Saint-Louis",
+    "dpt": 57820,
+    "lon": 7.18333,
+    "lat": 48.7167,
+    "code": "uTNrQW"
+  },
+  {
+    "Ville": "Saint-Louis",
+    "dpt": 68128,
+    "lon": 7.56667,
+    "lat": 47.5833,
+    "code": "droXSv"
+  },
+  {
+    "Ville": "Saint-Louis",
+    "dpt": 97134,
+    "lon": 15.9543,
+    "lat": -61.3177,
+    "code": "KvuXyO"
+  },
+  {
+    "Ville": "Saint-Lunaire",
+    "dpt": 35800,
+    "lon": -2.11667,
+    "lat": 48.6333,
+    "code": "bdMoEx"
+  },
+  {
+    "Ville": "Saint-Malo",
+    "dpt": 35400,
+    "lon": -2.01667,
+    "lat": 48.65,
+    "code": "LtXqEp"
+  },
+  {
+    "Ville": "Saint-Mandrier-sur-Mer",
+    "dpt": 83430,
+    "lon": 5.93333,
+    "lat": 43.0667,
+    "code": "slndmh"
+  },
+  {
+    "Ville": "Saint-Marcouf",
+    "dpt": 14330,
+    "lon": -0.995,
+    "lat": 49.2531,
+    "code": "JquvHP"
+  },
+  {
+    "Ville": "Saint-Marcouf",
+    "dpt": 50310,
+    "lon": 0.709168,
+    "lat": 49.4731,
+    "code": "MEnOwE"
+  },
+  {
+    "Ville": "Saint-Martin-aux-Buneaux",
+    "dpt": 76450,
+    "lon": 0.55,
+    "lat": 49.8333,
+    "code": "nZEKYh"
+  },
+  {
+    "Ville": "Saint-Martin-de-Ré",
+    "dpt": 17410,
+    "lon": -1.36667,
+    "lat": 46.2,
+    "code": "CcyMAf"
+  },
+  {
+    "Ville": "Saint-Martin-de-Varreville",
+    "dpt": 50480,
+    "lon": -1.23333,
+    "lat": 49.4333,
+    "code": "MkiBYM"
+  },
+  {
+    "Ville": "Saint-Martin-en-Campagne",
+    "dpt": 76370,
+    "lon": 1.23333,
+    "lat": 49.95,
+    "code": "BBXDjJ"
+  },
+  {
+    "Ville": "Saint-Méloir-des-Ondes",
+    "dpt": 35350,
+    "lon": -1.9,
+    "lat": 48.65,
+    "code": "srESwn"
+  },
+  {
+    "Ville": "Saint-Michel-Chef-Chef",
+    "dpt": 44730,
+    "lon": -2.15,
+    "lat": 47.1833,
+    "code": "ZcLeOd"
+  },
+  {
+    "Ville": "Saint-Michel-en-Grève",
+    "dpt": 22300,
+    "lon": -3.56667,
+    "lat": 48.6833,
+    "code": "SDYefA"
+  },
+  {
+    "Ville": "Saint-Michel-en-l'Herm",
+    "dpt": 85580,
+    "lon": -1.25,
+    "lat": 46.35,
+    "code": "fsrRmN"
+  },
+  {
+    "Ville": "Saint-Mitre-les-Remparts",
+    "dpt": 13920,
+    "lon": 5.01667,
+    "lat": 43.45,
+    "code": "iyxpLz"
+  },
+  {
+    "Ville": "Saint-Nazaire",
+    "dpt": 30200,
+    "lon": 4.62473,
+    "lat": 44.1978,
+    "code": "UYIjQv"
+  },
+  {
+    "Ville": "Saint-Nazaire",
+    "dpt": 44600,
+    "lon": -2.2,
+    "lat": 47.2833,
+    "code": "zeNPgB"
+  },
+  {
+    "Ville": "Saint-Nazaire",
+    "dpt": 66570,
+    "lon": 2.99195,
+    "lat": 42.6675,
+    "code": "GdvZcE"
+  },
+  {
+    "Ville": "Saint-Nic",
+    "dpt": 29550,
+    "lon": -4.28333,
+    "lat": 48.2,
+    "code": "rHiPBw"
+  },
+  {
+    "Ville": "Saint-Pabu",
+    "dpt": 29830,
+    "lon": 3.39723,
+    "lat": 48.5659,
+    "code": "BcbPve"
+  },
+  {
+    "Ville": "Saint-Pair-sur-Mer",
+    "dpt": 50380,
+    "lon": -1.56667,
+    "lat": 48.8167,
+    "code": "jvXXGS"
+  },
+  {
+    "Ville": "Saint-Palais-sur-Mer",
+    "dpt": 17420,
+    "lon": -1.08333,
+    "lat": 45.6333,
+    "code": "ZrOFHD"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 19150,
+    "lon": 1.9,
+    "lat": 45.2167,
+    "code": "CuRgfD"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 33390,
+    "lon": -0.6,
+    "lat": 45.15,
+    "code": "LhusYp"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 60650,
+    "lon": 2,
+    "lat": 49.4333,
+    "code": "NBXDOy"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 61100,
+    "lon": -0.633333,
+    "lat": 48.75,
+    "code": "XYClLL"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 65150,
+    "lon": 0.505556,
+    "lat": 43.0814,
+    "code": "SSagif"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 73170,
+    "lon": 5.78473,
+    "lat": 45.6775,
+    "code": "EDKxNx"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 87260,
+    "lon": 1.43222,
+    "lat": 45.7503,
+    "code": "dSLXzr"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 88170,
+    "lon": 5.88333,
+    "lat": 48.3333,
+    "code": "KINlIM"
+  },
+  {
+    "Ville": "Saint-Paul",
+    "dpt": 97460,
+    "lon": -21.0033,
+    "lat": 55.2833,
+    "code": "kvVaGr"
+  },
+  {
+    "Ville": "Saint-Père",
+    "dpt": 35430,
+    "lon": -1.91667,
+    "lat": 48.5833,
+    "code": "rEKQSO"
+  },
+  {
+    "Ville": "Saint-Père",
+    "dpt": 58200,
+    "lon": 2.96028,
+    "lat": 47.412,
+    "code": "EkowiP"
+  },
+  {
+    "Ville": "Saint-Père",
+    "dpt": 89450,
+    "lon": 3.76667,
+    "lat": 47.4667,
+    "code": "EppuUM"
+  },
+  {
+    "Ville": "Saint-Philibert",
+    "dpt": 21220,
+    "lon": 5.01667,
+    "lat": 47.2,
+    "code": "OLWAui"
+  },
+  {
+    "Ville": "Saint-Philibert",
+    "dpt": 56470,
+    "lon": -3,
+    "lat": 47.5833,
+    "code": "vkYOzJ"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 6260,
+    "lon": 6.92445,
+    "lat": 43.912,
+    "code": "JXxcqx"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 15350,
+    "lon": 2.38333,
+    "lat": 45.3833,
+    "code": "YhoMQe"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 31590,
+    "lon": 1.65028,
+    "lat": 43.6314,
+    "code": "ANnLRK"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 39150,
+    "lon": 5.91667,
+    "lat": 46.5667,
+    "code": "GOCeKW"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 51510,
+    "lon": 4.25,
+    "lat": 48.95,
+    "code": "bktJEO"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 67140,
+    "lon": 7.46667,
+    "lat": 48.3833,
+    "code": "tvRHFC"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 97250,
+    "lon": 14.744,
+    "lat": -61.1738,
+    "code": "GsEReO"
+  },
+  {
+    "Ville": "Saint-Pierre",
+    "dpt": 97432,
+    "lon": 43.6566,
+    "lat": 6.87387,
+    "code": "xLIPdn"
+  },
+  {
+    "Ville": "Saint-Pierre-d'Oléron",
+    "dpt": 17310,
+    "lon": -1.31667,
+    "lat": 45.95,
+    "code": "AILVuB"
+  },
+  {
+    "Ville": "Saint-Pierre-du-Mont",
+    "dpt": 14450,
+    "lon": -0.983333,
+    "lat": 49.4,
+    "code": "hVXYnZ"
+  },
+  {
+    "Ville": "Saint-Pierre-du-Mont",
+    "dpt": 40280,
+    "lon": -0.516667,
+    "lat": 43.8833,
+    "code": "MuLnBT"
+  },
+  {
+    "Ville": "Saint-Pierre-du-Mont",
+    "dpt": 58210,
+    "lon": 3.43333,
+    "lat": 47.4,
+    "code": "zqKakr"
+  },
+  {
+    "Ville": "Saint-Pierre-en-Port",
+    "dpt": 76540,
+    "lon": 0.483333,
+    "lat": 49.8,
+    "code": "cIroKm"
+  },
+  {
+    "Ville": "Saint-Pierre-Quiberon",
+    "dpt": 56510,
+    "lon": -3.13333,
+    "lat": 47.5167,
+    "code": "WAEtVo"
+  },
+  {
+    "Ville": "Saint-Pol-de-Léon",
+    "dpt": 29250,
+    "lon": -3.98333,
+    "lat": 48.6833,
+    "code": "SrSjwt"
+  },
+  {
+    "Ville": "Saint-Quay-Portrieux",
+    "dpt": 22410,
+    "lon": -2.83333,
+    "lat": 48.65,
+    "code": "HaUGvX"
+  },
+  {
+    "Ville": "Saint-Quentin-en-Tourmont",
+    "dpt": 80120,
+    "lon": 1.58333,
+    "lat": 50.2833,
+    "code": "cLeYoI"
+  },
+  {
+    "Ville": "Saint-Quentin-la-Motte-Croix-au-Bailly",
+    "dpt": 80880,
+    "lon": 1.45195,
+    "lat": 50.0737,
+    "code": "kHUkUu"
+  },
+  {
+    "Ville": "Saint-Raphaël",
+    "dpt": 24160,
+    "lon": 1.06667,
+    "lat": 45.3,
+    "code": "PKDdBJ"
+  },
+  {
+    "Ville": "Saint-Raphaël",
+    "dpt": 83700,
+    "lon": 6.76667,
+    "lat": 43.4167,
+    "code": "tMPJkI"
+  },
+  {
+    "Ville": "Saint-Rémy-des-Landes",
+    "dpt": 50580,
+    "lon": -1.63333,
+    "lat": 49.2833,
+    "code": "jSvaAG"
+  },
+  {
+    "Ville": "Saint-Samson-sur-Rance",
+    "dpt": 22100,
+    "lon": -2.03333,
+    "lat": 48.5,
+    "code": "BPYJvB"
+  },
+  {
+    "Ville": "Saint-Suliac",
+    "dpt": 35430,
+    "lon": -1.96667,
+    "lat": 48.5667,
+    "code": "HyCjsk"
+  },
+  {
+    "Ville": "Saint-Sulpice-de-Royan",
+    "dpt": 17200,
+    "lon": -1.01667,
+    "lat": 45.6667,
+    "code": "GVhFhl"
+  },
+  {
+    "Ville": "Saint-Sylvain",
+    "dpt": 14190,
+    "lon": -0.216667,
+    "lat": 49.05,
+    "code": "eFrWSx"
+  },
+  {
+    "Ville": "Saint-Sylvain",
+    "dpt": 19380,
+    "lon": 1.88333,
+    "lat": 45.1833,
+    "code": "ZHKBCG"
+  },
+  {
+    "Ville": "Saint-Sylvain",
+    "dpt": 76460,
+    "lon": 0.666667,
+    "lat": 49.85,
+    "code": "UNDybb"
+  },
+  {
+    "Ville": "Saint-Trojan-les-Bains",
+    "dpt": 17370,
+    "lon": -1.2,
+    "lat": 45.8333,
+    "code": "YoScCs"
+  },
+  {
+    "Ville": "Saint-Tropez",
+    "dpt": 83990,
+    "lon": 6.63333,
+    "lat": 43.2667,
+    "code": "okFhte"
+  },
+  {
+    "Ville": "Saint-Vaast-la-Hougue",
+    "dpt": 50550,
+    "lon": -1.26667,
+    "lat": 49.6,
+    "code": "VEEQRh"
+  },
+  {
+    "Ville": "Saint-Valery-en-Caux",
+    "dpt": 76460,
+    "lon": 0.733333,
+    "lat": 49.8667,
+    "code": "teUroU"
+  },
+  {
+    "Ville": "Saint-Valery-sur-Somme",
+    "dpt": 80230,
+    "lon": 1.63333,
+    "lat": 50.1833,
+    "code": "UPhVkZ"
+  },
+  {
+    "Ville": "Saint-Vigor-d'Ymonville",
+    "dpt": 76430,
+    "lon": 0.366667,
+    "lat": 49.5,
+    "code": "JjenlD"
+  },
+  {
+    "Ville": "Saint-Vincent-sur-Jard",
+    "dpt": 85520,
+    "lon": -1.55,
+    "lat": 46.4167,
+    "code": "xGqMNe"
+  },
+  {
+    "Ville": "Sainte-Adresse",
+    "dpt": 76310,
+    "lon": 0.083333,
+    "lat": 49.5,
+    "code": "EzFKqW"
+  },
+  {
+    "Ville": "Sainte-Anne",
+    "dpt": 25270,
+    "lon": 5.98333,
+    "lat": 46.95,
+    "code": "YqaTOk"
+  },
+  {
+    "Ville": "Sainte-Anne",
+    "dpt": 32430,
+    "lon": 0.966667,
+    "lat": 43.7333,
+    "code": "qJYZcY"
+  },
+  {
+    "Ville": "Sainte-Anne",
+    "dpt": 41100,
+    "lon": 1.08333,
+    "lat": 47.75,
+    "code": "kAesTv"
+  },
+  {
+    "Ville": "Sainte-Anne",
+    "dpt": 97180,
+    "lon": 16.2238,
+    "lat": -61.3864,
+    "code": "QNFgUI"
+  },
+  {
+    "Ville": "Sainte-Anne",
+    "dpt": 97227,
+    "lon": 14.4367,
+    "lat": -60.8809,
+    "code": "bJCyTl"
+  },
+  {
+    "Ville": "Sainte-Eulalie-en-Born",
+    "dpt": 40200,
+    "lon": -1.18333,
+    "lat": 44.2667,
+    "code": "FixLhF"
+  },
+  {
+    "Ville": "Sainte-Hélène",
+    "dpt": 33480,
+    "lon": -0.883333,
+    "lat": 44.9667,
+    "code": "yloTzb"
+  },
+  {
+    "Ville": "Sainte-Hélène",
+    "dpt": 48190,
+    "lon": 3.60278,
+    "lat": 44.5192,
+    "code": "WoWYxN"
+  },
+  {
+    "Ville": "Sainte-Hélène",
+    "dpt": 56700,
+    "lon": -3.2,
+    "lat": 47.7167,
+    "code": "tdatNQ"
+  },
+  {
+    "Ville": "Sainte-Hélène",
+    "dpt": 71390,
+    "lon": 4.65,
+    "lat": 46.75,
+    "code": "VqbEgH"
+  },
+  {
+    "Ville": "Sainte-Hélène",
+    "dpt": 88700,
+    "lon": 6.65,
+    "lat": 48.2833,
+    "code": "wTXlzp"
+  },
+  {
+    "Ville": "Sainte-Honorine-des-Pertes",
+    "dpt": 14520,
+    "lon": -0.8,
+    "lat": 49.35,
+    "code": "YxgjFQ"
+  },
+  {
+    "Ville": "Sainte-Luce",
+    "dpt": 38970,
+    "lon": 5.91667,
+    "lat": 44.85,
+    "code": "cDRunE"
+  },
+  {
+    "Ville": "Sainte-Luce",
+    "dpt": 97228,
+    "lon": 14.466,
+    "lat": -60.9327,
+    "code": "zpgDCA"
+  },
+  {
+    "Ville": "Sainte-Marguerite-sur-Mer",
+    "dpt": 76119,
+    "lon": 0.947222,
+    "lat": 49.9073,
+    "code": "VINxwu"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 5150,
+    "lon": 5.475,
+    "lat": 44.4667,
+    "code": "wjlUuN"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 8400,
+    "lon": 4.66667,
+    "lat": 49.3833,
+    "code": "oPjzCN"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 15230,
+    "lon": 2.88333,
+    "lat": 44.8667,
+    "code": "pzxgic"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 25113,
+    "lon": 6.7,
+    "lat": 47.5,
+    "code": "RuYGup"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 32200,
+    "lon": 0.874722,
+    "lat": 43.6606,
+    "code": "lVTcJx"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 35600,
+    "lon": -2,
+    "lat": 47.7,
+    "code": "wfxYxA"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 58330,
+    "lon": 3.43333,
+    "lat": 47.1167,
+    "code": "Mxwoil"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 65370,
+    "lon": 0.621389,
+    "lat": 42.9728,
+    "code": "xpJWsw"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 66470,
+    "lon": 3.01695,
+    "lat": 42.7273,
+    "code": "GAKxlq"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 97230,
+    "lon": 14.7604,
+    "lat": -61.0111,
+    "code": "fibVyv"
+  },
+  {
+    "Ville": "Sainte-Marie",
+    "dpt": 97438,
+    "lon": -20.8971,
+    "lat": 55.5499,
+    "code": "IfhhXy"
+  },
+  {
+    "Ville": "Sainte-Marie-de-Ré",
+    "dpt": 17740,
+    "lon": -1.3,
+    "lat": 46.15,
+    "code": "TJeYhP"
+  },
+  {
+    "Ville": "Sainte-Marie-du-Mont",
+    "dpt": 38660,
+    "lon": 5.93333,
+    "lat": 45.4,
+    "code": "IvaePw"
+  },
+  {
+    "Ville": "Sainte-Marie-du-Mont",
+    "dpt": 50480,
+    "lon": -1.21667,
+    "lat": 49.3833,
+    "code": "alhCjS"
+  },
+  {
+    "Ville": "Sainte-Maxime",
+    "dpt": 83120,
+    "lon": 6.63333,
+    "lat": 43.3,
+    "code": "eapohW"
+  },
+  {
+    "Ville": "Sainte-Mère-Église",
+    "dpt": 50480,
+    "lon": -1.31667,
+    "lat": 49.4167,
+    "code": "HAsMpP"
+  },
+  {
+    "Ville": "Sainte-Radégonde-des-Noyers",
+    "dpt": 85450,
+    "lon": -1.05,
+    "lat": 46.3667,
+    "code": "Apsnco"
+  },
+  {
+    "Ville": "Sainte-Rose",
+    "dpt": 97115,
+    "lon": 16.3313,
+    "lat": -61.6948,
+    "code": "fHNHOM"
+  },
+  {
+    "Ville": "Sainte-Suzanne",
+    "dpt": 9130,
+    "lon": 1.38333,
+    "lat": 43.2167,
+    "code": "CAuATI"
+  },
+  {
+    "Ville": "Sainte-Suzanne",
+    "dpt": 25630,
+    "lon": 6.76667,
+    "lat": 47.5,
+    "code": "lzIkDZ"
+  },
+  {
+    "Ville": "Sainte-Suzanne",
+    "dpt": 53270,
+    "lon": -0.35,
+    "lat": 48.1,
+    "code": "jkxybS"
+  },
+  {
+    "Ville": "Saintes-Maries-de-la-Mer",
+    "dpt": 13460,
+    "lon": 4.425,
+    "lat": 43.45,
+    "code": "kfmmke"
+  },
+  {
+    "Ville": "Sallenelles",
+    "dpt": 14121,
+    "lon": -0.233333,
+    "lat": 49.2667,
+    "code": "Oynueo"
+  },
+  {
+    "Ville": "Salses-le-Château",
+    "dpt": 66600,
+    "lon": 2.91889,
+    "lat": 42.8328,
+    "code": "RdgJIX"
+  },
+  {
+    "Ville": "San-Gavino-di-Tenda",
+    "dpt": 20246,
+    "lon": 9.26751,
+    "lat": 42.5989,
+    "code": "jekWKG"
+  },
+  {
+    "Ville": "San-Giuliano",
+    "dpt": 20230,
+    "lon": 9.49112,
+    "lat": 42.3145,
+    "code": "eoAkgz"
+  },
+  {
+    "Ville": "San-Martino-di-Lota",
+    "dpt": 20200,
+    "lon": 9.45529,
+    "lat": 42.7231,
+    "code": "LnnOor"
+  },
+  {
+    "Ville": "San-Nicolao",
+    "dpt": 20230,
+    "lon": 9.52501,
+    "lat": 42.375,
+    "code": "cwsXlw"
+  },
+  {
+    "Ville": "Sanary-sur-Mer",
+    "dpt": 83110,
+    "lon": 5.8,
+    "lat": 43.1167,
+    "code": "YgFNnt"
+  },
+  {
+    "Ville": "Sandouville",
+    "dpt": 76430,
+    "lon": 0.316667,
+    "lat": 49.5,
+    "code": "OWBFNT"
+  },
+  {
+    "Ville": "Sangatte",
+    "dpt": 62231,
+    "lon": 1.75,
+    "lat": 50.9333,
+    "code": "wHPDTq"
+  },
+  {
+    "Ville": "Sanguinet",
+    "dpt": 40460,
+    "lon": -1.075,
+    "lat": 44.4833,
+    "code": "Ccgwwc"
+  },
+  {
+    "Ville": "Sant'Andréa-d'Orcino",
+    "dpt": 20151,
+    "lon": 8.8089,
+    "lat": 42.0464,
+    "code": "dnKqhC"
+  },
+  {
+    "Ville": "Santa-Lucia-di-Moriani",
+    "dpt": 20230,
+    "lon": 9.52973,
+    "lat": 42.3856,
+    "code": "dRtQHO"
+  },
+  {
+    "Ville": "Santa-Maria-di-Lota",
+    "dpt": 20200,
+    "lon": 9.43306,
+    "lat": 42.747,
+    "code": "FXbsmf"
+  },
+  {
+    "Ville": "Santa-Maria-Poggio",
+    "dpt": 20221,
+    "lon": 9.49529,
+    "lat": 42.3462,
+    "code": "tSNFpm"
+  },
+  {
+    "Ville": "Santec",
+    "dpt": 29250,
+    "lon": -4.03333,
+    "lat": 48.7,
+    "code": "rdURRf"
+  },
+  {
+    "Ville": "Santo-Pietro-di-Tenda",
+    "dpt": 20246,
+    "lon": 9.25779,
+    "lat": 42.6053,
+    "code": "dCGYea"
+  },
+  {
+    "Ville": "Sari-Solenzara",
+    "dpt": 20145,
+    "lon": 9.37334,
+    "lat": 41.835,
+    "code": "FxbMKT"
+  },
+  {
+    "Ville": "Sartène",
+    "dpt": 20100,
+    "lon": 8.97362,
+    "lat": 41.6209,
+    "code": "ytTEZW"
+  },
+  {
+    "Ville": "Sarzeau",
+    "dpt": 56370,
+    "lon": -2.76667,
+    "lat": 47.5333,
+    "code": "GtVeWn"
+  },
+  {
+    "Ville": "Sassetot-le-Mauconduit",
+    "dpt": 76540,
+    "lon": 0.528333,
+    "lat": 49.8037,
+    "code": "cYryaT"
+  },
+  {
+    "Ville": "Saujon",
+    "dpt": 17600,
+    "lon": -0.916667,
+    "lat": 45.6667,
+    "code": "ZPboQn"
+  },
+  {
+    "Ville": "Sausset-les-Pins",
+    "dpt": 13960,
+    "lon": 5.11667,
+    "lat": 43.3333,
+    "code": "MIfFMH"
+  },
+  {
+    "Ville": "Sauzon",
+    "dpt": 56360,
+    "lon": -3.21667,
+    "lat": 47.3667,
+    "code": "txMull"
+  },
+  {
+    "Ville": "Seignosse",
+    "dpt": 40510,
+    "lon": -1.36667,
+    "lat": 43.6833,
+    "code": "xbKJNU"
+  },
+  {
+    "Ville": "Séné",
+    "dpt": 56860,
+    "lon": -2.75,
+    "lat": 47.6167,
+    "code": "xxrKbG"
+  },
+  {
+    "Ville": "Senneville-sur-Fécamp",
+    "dpt": 76400,
+    "lon": 0.416667,
+    "lat": 49.7667,
+    "code": "DXApGc"
+  },
+  {
+    "Ville": "Sérignan",
+    "dpt": 34410,
+    "lon": 3.28333,
+    "lat": 43.2833,
+    "code": "TjrATg"
+  },
+  {
+    "Ville": "Serra-di-Ferro",
+    "dpt": 20140,
+    "lon": 8.7989,
+    "lat": 41.7298,
+    "code": "xMzrQt"
+  },
+  {
+    "Ville": "Serra-di-Fiumorbo",
+    "dpt": 20243,
+    "lon": 9.33612,
+    "lat": 41.985,
+    "code": "inuoVI"
+  },
+  {
+    "Ville": "Serriera",
+    "dpt": 20147,
+    "lon": 8.70834,
+    "lat": 42.3014,
+    "code": "pYCiGq"
+  },
+  {
+    "Ville": "Sète",
+    "dpt": 34200,
+    "lon": 3.68333,
+    "lat": 43.4,
+    "code": "rQifyY"
+  },
+  {
+    "Ville": "Sibiril",
+    "dpt": 29250,
+    "lon": -4.06667,
+    "lat": 48.6667,
+    "code": "mqmlTv"
+  },
+  {
+    "Ville": "Sigean",
+    "dpt": 11130,
+    "lon": 2.98333,
+    "lat": 43.0333,
+    "code": "WmBSys"
+  },
+  {
+    "Ville": "Sinnamary",
+    "dpt": 97315,
+    "lon": 5.37686,
+    "lat": -52.9532,
+    "code": "pAktCt"
+  },
+  {
+    "Ville": "Siouville-Hague",
+    "dpt": 50340,
+    "lon": 0.160557,
+    "lat": 49.5581,
+    "code": "ggkizU"
+  },
+  {
+    "Ville": "Sisco",
+    "dpt": 20233,
+    "lon": 9.43612,
+    "lat": 42.8159,
+    "code": "VyORGW"
+  },
+  {
+    "Ville": "Six-Fours-les-Plages",
+    "dpt": 83140,
+    "lon": 5.83945,
+    "lat": 43.0934,
+    "code": "GgMYGc"
+  },
+  {
+    "Ville": "Solaro",
+    "dpt": 20240,
+    "lon": 9.3264,
+    "lat": 41.9039,
+    "code": "YNsimI"
+  },
+  {
+    "Ville": "Soorts-Hossegor",
+    "dpt": 40150,
+    "lon": -1.4,
+    "lat": 43.6667,
+    "code": "nkWast"
+  },
+  {
+    "Ville": "Sorbo-Ocagnano",
+    "dpt": 20213,
+    "lon": 9.45695,
+    "lat": 42.4756,
+    "code": "hHoaho"
+  },
+  {
+    "Ville": "Sotteville-sur-Mer",
+    "dpt": 76740,
+    "lon": 0.833333,
+    "lat": 49.8833,
+    "code": "pvDgkz"
+  },
+  {
+    "Ville": "Soulac-sur-Mer",
+    "dpt": 33780,
+    "lon": -1.11667,
+    "lat": 45.5083,
+    "code": "fGQizB"
+  },
+  {
+    "Ville": "Soustons",
+    "dpt": 40140,
+    "lon": -1.31667,
+    "lat": 43.75,
+    "code": "Uskggo"
+  },
+  {
+    "Ville": "Surtainville",
+    "dpt": 50270,
+    "lon": -1.81667,
+    "lat": 49.4667,
+    "code": "fPYPMr"
+  },
+  {
+    "Ville": "Surville",
+    "dpt": 14130,
+    "lon": 0.216667,
+    "lat": 49.3,
+    "code": "SOyiku"
+  },
+  {
+    "Ville": "Surville",
+    "dpt": 27400,
+    "lon": 1.1,
+    "lat": 49.2,
+    "code": "fOknwh"
+  },
+  {
+    "Ville": "Surville",
+    "dpt": 50250,
+    "lon": -1.65,
+    "lat": 49.2833,
+    "code": "avkNKi"
+  },
+  {
+    "Ville": "Surzur",
+    "dpt": 56450,
+    "lon": -2.63333,
+    "lat": 47.5833,
+    "code": "CrAJaG"
+  },
+  {
+    "Ville": "Taglio-Isolaccio",
+    "dpt": 20230,
+    "lon": 9.46973,
+    "lat": 42.435,
+    "code": "wkERBR"
+  },
+  {
+    "Ville": "Talasani",
+    "dpt": 20230,
+    "lon": 9.48001,
+    "lat": 42.4081,
+    "code": "SFfHDM"
+  },
+  {
+    "Ville": "Tallone",
+    "dpt": 20270,
+    "lon": 9.41418,
+    "lat": 42.2314,
+    "code": "XgHDzH"
+  },
+  {
+    "Ville": "Talmont-Saint-Hilaire",
+    "dpt": 85440,
+    "lon": 0.381668,
+    "lat": 46.4673,
+    "code": "ahpGFL"
+  },
+  {
+    "Ville": "Tardinghen",
+    "dpt": 62179,
+    "lon": 1.63333,
+    "lat": 50.8667,
+    "code": "outApU"
+  },
+  {
+    "Ville": "Tarnos",
+    "dpt": 40220,
+    "lon": -1.46667,
+    "lat": 43.5333,
+    "code": "RcBTVK"
+  },
+  {
+    "Ville": "Taulé",
+    "dpt": 29670,
+    "lon": -3.9,
+    "lat": 48.6,
+    "code": "fAURcZ"
+  },
+  {
+    "Ville": "Telgruc-sur-Mer",
+    "dpt": 29560,
+    "lon": -4.35,
+    "lat": 48.2333,
+    "code": "DqVTTg"
+  },
+  {
+    "Ville": "Terre-de-Bas",
+    "dpt": 97136,
+    "lon": 15.8496,
+    "lat": -61.6445,
+    "code": "bOIYfy"
+  },
+  {
+    "Ville": "Terre-de-Haut",
+    "dpt": 97137,
+    "lon": 15.8678,
+    "lat": -61.5825,
+    "code": "SqmROY"
+  },
+  {
+    "Ville": "Theix",
+    "dpt": 56450,
+    "lon": -2.66667,
+    "lat": 47.6333,
+    "code": "tsaOIN"
+  },
+  {
+    "Ville": "Théoule-sur-Mer",
+    "dpt": 6590,
+    "lon": 6.93333,
+    "lat": 43.5,
+    "code": "VreEbB"
+  },
+  {
+    "Ville": "Tocqueville-sur-Eu",
+    "dpt": 76910,
+    "lon": 1.28333,
+    "lat": 50,
+    "code": "vchciD"
+  },
+  {
+    "Ville": "Tomino",
+    "dpt": 20248,
+    "lon": 9.44279,
+    "lat": 42.9459,
+    "code": "xOaiOk"
+  },
+  {
+    "Ville": "Torreilles",
+    "dpt": 66440,
+    "lon": 2.98333,
+    "lat": 42.75,
+    "code": "REJLmg"
+  },
+  {
+    "Ville": "Toulon",
+    "dpt": "83000-83100-83200",
+    "lon": 5.93333,
+    "lat": 43.1167,
+    "code": "GcIRtm"
+  },
+  {
+    "Ville": "Tourgéville",
+    "dpt": 14800,
+    "lon": 0.066667,
+    "lat": 49.3167,
+    "code": "CjwliC"
+  },
+  {
+    "Ville": "Tourlaville",
+    "dpt": 50110,
+    "lon": -1.56667,
+    "lat": 49.6333,
+    "code": "RWPEjI"
+  },
+  {
+    "Ville": "Tourville-sur-Sienne",
+    "dpt": 50200,
+    "lon": -1.55,
+    "lat": 49.05,
+    "code": "AHIjkN"
+  },
+  {
+    "Ville": "Tracy-sur-Mer",
+    "dpt": 14117,
+    "lon": -0.65,
+    "lat": 49.3333,
+    "code": "kWMsRK"
+  },
+  {
+    "Ville": "Tréauville",
+    "dpt": 50340,
+    "lon": -1.81667,
+    "lat": 49.5167,
+    "code": "brLLxb"
+  },
+  {
+    "Ville": "Trébabu",
+    "dpt": 29217,
+    "lon": -4.73333,
+    "lat": 48.3667,
+    "code": "jZfDjr"
+  },
+  {
+    "Ville": "Trébeurden",
+    "dpt": 22560,
+    "lon": -3.56667,
+    "lat": 48.7667,
+    "code": "asGTPY"
+  },
+  {
+    "Ville": "Trédrez-Locquémeau",
+    "dpt": 22300,
+    "lon": -3.56667,
+    "lat": 48.7,
+    "code": "AOWcMv"
+  },
+  {
+    "Ville": "Tréduder",
+    "dpt": 22310,
+    "lon": -3.56667,
+    "lat": 48.65,
+    "code": "CIMuPs"
+  },
+  {
+    "Ville": "Treffiagat",
+    "dpt": 29730,
+    "lon": -4.26667,
+    "lat": 47.8167,
+    "code": "GsnRvE"
+  },
+  {
+    "Ville": "Tréflez",
+    "dpt": 29430,
+    "lon": -4.26667,
+    "lat": 48.6167,
+    "code": "wrEAjf"
+  },
+  {
+    "Ville": "Trégarvan",
+    "dpt": 29560,
+    "lon": -4.21667,
+    "lat": 48.25,
+    "code": "AwdlfT"
+  },
+  {
+    "Ville": "Trégastel",
+    "dpt": 22730,
+    "lon": 2.48639,
+    "lat": 48.817,
+    "code": "UizjWu"
+  },
+  {
+    "Ville": "Tréglonou",
+    "dpt": 29870,
+    "lon": -4.53333,
+    "lat": 48.55,
+    "code": "LnJHWH"
+  },
+  {
+    "Ville": "Trégon",
+    "dpt": 22650,
+    "lon": -2.18333,
+    "lat": 48.5667,
+    "code": "dIECju"
+  },
+  {
+    "Ville": "Tréguennec",
+    "dpt": 29720,
+    "lon": -4.33333,
+    "lat": 47.8833,
+    "code": "cXWqEQ"
+  },
+  {
+    "Ville": "Trégunc",
+    "dpt": 29910,
+    "lon": -3.85,
+    "lat": 47.85,
+    "code": "JpHyEw"
+  },
+  {
+    "Ville": "Trélévern",
+    "dpt": 22660,
+    "lon": -3.36667,
+    "lat": 48.8167,
+    "code": "tmftnM"
+  },
+  {
+    "Ville": "Tréogat",
+    "dpt": 29720,
+    "lon": -4.31667,
+    "lat": 47.9167,
+    "code": "sMGqHJ"
+  },
+  {
+    "Ville": "Tréveneuc",
+    "dpt": 22410,
+    "lon": -2.86667,
+    "lat": 48.6667,
+    "code": "iBoiSC"
+  },
+  {
+    "Ville": "Trévou-Tréguignec",
+    "dpt": 22660,
+    "lon": -3.35,
+    "lat": 48.8167,
+    "code": "yGmEQt"
+  },
+  {
+    "Ville": "Triaize",
+    "dpt": 85580,
+    "lon": -1.2,
+    "lat": 46.3833,
+    "code": "KgqODT"
+  },
+  {
+    "Ville": "Trois-Rivières",
+    "dpt": 97114,
+    "lon": 15.9943,
+    "lat": -61.6323,
+    "code": "XJERgp"
+  },
+  {
+    "Ville": "Trouville-sur-Mer",
+    "dpt": 14360,
+    "lon": 0.083333,
+    "lat": 49.3667,
+    "code": "jLTlCG"
+  },
+  {
+    "Ville": "Urrugne",
+    "dpt": 64122,
+    "lon": -1.7,
+    "lat": 43.3583,
+    "code": "kDlZoW"
+  },
+  {
+    "Ville": "Urville-Nacqueville",
+    "dpt": 50460,
+    "lon": -1.73333,
+    "lat": 49.6833,
+    "code": "iAyNti"
+  },
+  {
+    "Ville": "Vains",
+    "dpt": 50300,
+    "lon": -1.41667,
+    "lat": 48.6833,
+    "code": "ZOWXnc"
+  },
+  {
+    "Ville": "Vallauris",
+    "dpt": 6220,
+    "lon": "07.05",
+    "lat": 43.5833,
+    "code": "LxOlxY"
+  },
+  {
+    "Ville": "Valle-di-Campoloro",
+    "dpt": 20221,
+    "lon": 9.49418,
+    "lat": 42.3359,
+    "code": "OQJnxx"
+  },
+  {
+    "Ville": "Valras-Plage",
+    "dpt": 34350,
+    "lon": 3.28333,
+    "lat": 43.25,
+    "code": "HBgRah"
+  },
+  {
+    "Ville": "Vannes",
+    "dpt": 56000,
+    "lon": -2.75,
+    "lat": 47.6667,
+    "code": "GJXIIa"
+  },
+  {
+    "Ville": "Varaville",
+    "dpt": 14390,
+    "lon": -0.15,
+    "lat": 49.25,
+    "code": "xPSRzo"
+  },
+  {
+    "Ville": "Varengeville-sur-Mer",
+    "dpt": 76119,
+    "lon": 0.983333,
+    "lat": 49.9167,
+    "code": "vSvdbX"
+  },
+  {
+    "Ville": "Vasteville",
+    "dpt": 50440,
+    "lon": -1.76667,
+    "lat": 49.6,
+    "code": "SWDBNr"
+  },
+  {
+    "Ville": "Vattetot-sur-Mer",
+    "dpt": 76111,
+    "lon": 0.283333,
+    "lat": 49.7333,
+    "code": "CUTfFh"
+  },
+  {
+    "Ville": "Vauville",
+    "dpt": 14800,
+    "lon": 0.0527778,
+    "lat": 49.3123,
+    "code": "WbehGh"
+  },
+  {
+    "Ville": "Vauville",
+    "dpt": 50440,
+    "lon": 0.153612,
+    "lat": 49.6376,
+    "code": "IrjVXp"
+  },
+  {
+    "Ville": "Vaux-sur-Mer",
+    "dpt": 17640,
+    "lon": -1.03333,
+    "lat": 45.65,
+    "code": "rGDHup"
+  },
+  {
+    "Ville": "Vendays-Montalivet",
+    "dpt": 33930,
+    "lon": -1.05833,
+    "lat": 45.3583,
+    "code": "ydHKxi"
+  },
+  {
+    "Ville": "Vendres",
+    "dpt": 34350,
+    "lon": 3.21667,
+    "lat": 43.2667,
+    "code": "cdBgUa"
+  },
+  {
+    "Ville": "Vensac",
+    "dpt": 33590,
+    "lon": -1.04167,
+    "lat": 45.4,
+    "code": "CrHcIK"
+  },
+  {
+    "Ville": "Ventiseri",
+    "dpt": 20240,
+    "lon": 9.33251,
+    "lat": 41.9425,
+    "code": "XOTbyo"
+  },
+  {
+    "Ville": "Venzolasca",
+    "dpt": 20215,
+    "lon": 9.45668,
+    "lat": 42.4839,
+    "code": "bySckM"
+  },
+  {
+    "Ville": "Ver-sur-Mer",
+    "dpt": 14114,
+    "lon": -0.533333,
+    "lat": 49.3333,
+    "code": "gfNUYJ"
+  },
+  {
+    "Ville": "Veules-les-Roses",
+    "dpt": 76980,
+    "lon": 0.8,
+    "lat": 49.8667,
+    "code": "rxYDRc"
+  },
+  {
+    "Ville": "Veulettes-sur-Mer",
+    "dpt": 76450,
+    "lon": 0.6,
+    "lat": 49.85,
+    "code": "ILgtpG"
+  },
+  {
+    "Ville": "Vias",
+    "dpt": 34450,
+    "lon": 3.41667,
+    "lat": 43.3,
+    "code": "CbysOB"
+  },
+  {
+    "Ville": "Vic-la-Gardiole",
+    "dpt": 34110,
+    "lon": 3.8,
+    "lat": 43.4833,
+    "code": "RaWELb"
+  },
+  {
+    "Ville": "Vico",
+    "dpt": 20160,
+    "lon": 8.7989,
+    "lat": 42.1664,
+    "code": "wSLDbc"
+  },
+  {
+    "Ville": "Vielle-Saint-Girons",
+    "dpt": 40560,
+    "lon": -1.3,
+    "lat": 43.95,
+    "code": "emAeRq"
+  },
+  {
+    "Ville": "Vierville-sur-Mer",
+    "dpt": 14710,
+    "lon": -0.9,
+    "lat": 49.3667,
+    "code": "vcGuXM"
+  },
+  {
+    "Ville": "Vieux-Boucau-les-Bains",
+    "dpt": 40480,
+    "lon": -1.4,
+    "lat": 43.7833,
+    "code": "cpVrxo"
+  },
+  {
+    "Ville": "Vieux-Fort",
+    "dpt": 97141,
+    "lon": 15.9481,
+    "lat": -61.6975,
+    "code": "JxPKVM"
+  },
+  {
+    "Ville": "Vieux-Habitants",
+    "dpt": 97119,
+    "lon": 16.0535,
+    "lat": -61.7636,
+    "code": "QryJIL"
+  },
+  {
+    "Ville": "Villanova",
+    "dpt": 20167,
+    "lon": 8.66779,
+    "lat": 41.9595,
+    "code": "IeNonB"
+  },
+  {
+    "Ville": "Ville-di-Pietrabugno",
+    "dpt": 20200,
+    "lon": 9.43112,
+    "lat": 42.7134,
+    "code": "BlWRgc"
+  },
+  {
+    "Ville": "Villefranche-sur-Mer",
+    "dpt": 6230,
+    "lon": 7.31667,
+    "lat": 43.7,
+    "code": "kiZDBw"
+  },
+  {
+    "Ville": "Villeneuve-lès-Maguelone",
+    "dpt": 34750,
+    "lon": 3.86084,
+    "lat": 43.5323,
+    "code": "EMikBe"
+  },
+  {
+    "Ville": "Villeneuve-Loubet",
+    "dpt": 6270,
+    "lon": 7.11667,
+    "lat": 43.65,
+    "code": "KLrRJc"
+  },
+  {
+    "Ville": "Villers-sur-Mer",
+    "dpt": 14640,
+    "lon": -0.00638889,
+    "lat": 49.3167,
+    "code": "gNOjvn"
+  },
+  {
+    "Ville": "Villerville",
+    "dpt": 14113,
+    "lon": 0.133333,
+    "lat": 49.4,
+    "code": "xnJvLf"
+  },
+  {
+    "Ville": "Vitrolles",
+    "dpt": 5110,
+    "lon": 5.93333,
+    "lat": 44.4333,
+    "code": "gzhuXv"
+  },
+  {
+    "Ville": "Vitrolles",
+    "dpt": 13127,
+    "lon": 5.25,
+    "lat": 43.4667,
+    "code": "HtXRDZ"
+  },
+  {
+    "Ville": "Waben",
+    "dpt": 62180,
+    "lon": 1.65,
+    "lat": 50.3833,
+    "code": "lchvJW"
+  },
+  {
+    "Ville": "Wimereux",
+    "dpt": 62930,
+    "lon": 1.61667,
+    "lat": 50.7667,
+    "code": "kUSSXm"
+  },
+  {
+    "Ville": "Wissant",
+    "dpt": 62179,
+    "lon": 1.66667,
+    "lat": 50.8833,
+    "code": "UgfbuG"
+  },
+  {
+    "Ville": "Woignarue",
+    "dpt": 80460,
+    "lon": 1.5,
+    "lat": 50.1167,
+    "code": "evoEWK"
+  },
+  {
+    "Ville": "Yffiniac",
+    "dpt": 22120,
+    "lon": -2.675,
+    "lat": 48.4833,
+    "code": "vtfRJh"
+  },
+  {
+    "Ville": "Yport",
+    "dpt": 76111,
+    "lon": 0.316667,
+    "lat": 49.7333,
+    "code": "SpJmcI"
+  },
+  {
+    "Ville": "Yves",
+    "dpt": 17340,
+    "lon": -1.05,
+    "lat": 46.0167,
+    "code": "sgxACu"
+  },
+  {
+    "Ville": "Zonza",
+    "dpt": "20124-20144",
+    "lon": 9.17056,
+    "lat": 41.7495,
+    "code": "NugRuD"
+  },
+  {
+    "Ville": "Zuydcoote",
+    "dpt": 59123,
+    "lon": 2.5,
+    "lat": 51.0667,
+    "code": "oAKXqi"
+  }
+]
